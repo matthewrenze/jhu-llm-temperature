@@ -19,8 +19,8 @@ These results have practical implications for AI systems engineers using LLMs to
 ## Code
 - [Source](source/) - contains all source code
 - [Models](source/models) - contains the model-specific code
-- [Prompts](source/agents) - contains LLM agent prompts code
-- [Prepare](source/prepare/) - contains the data pre-processing scripts
+- [Prompts](source/agents) - contains LLM agent prompt code
+- [Process](source/process/) - contains the data pre-processing scripts
 - [Analyze](source/analyze/) - contains the hypothesis test and data visulaizations
 
 ## Data

@@ -21,10 +21,10 @@ These results have practical implications for AI systems engineers using LLMs to
 - [Models](source/models) - contains the model-specific code
 - [Prompts](source/agents) - contains LLM agent prompt code
 - [Process](source/process/) - contains the data pre-processing scripts
-- [Analyze](source/analyze/) - contains the hypothesis test and data visulaizations
+- [Analyze](source/analyze/) - contains the data analysis scripts
 
 ## Data
-- [Exams](exams/) - contains the test benchmarks
+- [Exams](exams/) - contains the test dataset
 - [Results](results/) - contains the high-level test results
 - [Details](details/) - contains the low-level test results
 - [Logs](logs/) - contains the experiment event logs

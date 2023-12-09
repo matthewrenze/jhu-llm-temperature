@@ -1,4 +1,4 @@
-# The Effect of Sampling Temperature on Problem-Solving in Large Language Models
+# The Effect of Sampling Temperature on Problem Solving in Large Language Models
 
 **Author:** Matthew Renze  
 **Class:** EN.705.742  

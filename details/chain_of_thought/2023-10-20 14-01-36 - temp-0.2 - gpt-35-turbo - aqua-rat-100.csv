@@ -1,0 +1,1300 @@
+Id,Date Time,Exam,Source,Source Id,Topic,Problem,Dialog,Answer 1,Answer 2,Answer 3,Answer 4,Answer 5,Answer 6,Answer 7,Answer 8,Answer 9,Answer 10,Agent Answer,Correct Answer,Solution,Score,Input Tokens,Output Tokens,Total Tokens,Error
+1,2023-10-20 14:01:36,aqua-rat-100.jsonl,agi-eval/aqua-rat,28,Math,"Topic: Math
+Question: A computer routine was developed to generate two numbers (x,y) the first being a random number between 0 and 100 inclusive, and the second being less than or equal to the square root of the first. Each of the following pair satisfies the routine except
+Choices:
+  A: (99,10)
+  B: (85,9)
+  C: (50,7)
+  D: (1,1)
+  E: (1,0)
+",,E,E,E,N,N,N,E,A,N,E,E,A,"99 is generated
+We don't know what the square root of 99 is because we would need a calculator, but we know the square root of 100 is 10, so the square root of 99 has to be less than 10.
+ANSWER:A",0,386,1804,2190,
+2,2023-10-20 14:01:40,aqua-rat-100.jsonl,agi-eval/aqua-rat,111,Math,"Topic: Math
+Question: If 75 percent of the employees of a certain company take a winter vacation, 40 percent take a winter and a summer vacation, and 20 percent take neither a winter nor a summer vacation, what Q percent of the employees take a summer vacation but not a winter vacation?
+Choices:
+  A: 5%
+  B: 15%
+  C: 25%
+  D: 35%
+  E: 45%
+",,D,E,C,E,N,D,C,D,A,N,D,A,"Winter = 75
+Both = 40
+Neither = 20
+Winter + Summer - Both + Neither = 100
+75 + Summer - 40 + 20 = 100
+Summer = 45
+Summer but not winter Q= Summer only = Summer - Both(i.e. summer overlap with winter) = 45 - 40 = 5
+Answer: A",0,379,3216,3595,
+3,2023-10-20 14:01:50,aqua-rat-100.jsonl,agi-eval/aqua-rat,35,Math,"Topic: Math
+Question: A rectangular solid, 3 x 4 x 15, is inscribed in a sphere, so that all eight of its vertices are on the sphere. What is the diameter of the sphere?
+Choices:
+  A:  13.3542
+  B:  15.8113
+  C:  18.3451
+  D:  19.5667
+  E:  20.8888
+",,E,N,N,B,B,B,B,N,B,E,B,B,"In an inscribed rectangle in a sphere, we will have a line joining the opposite vertices as the diameter.
+According to the Pythagoras theorem, sides 3, 4 give diagonal as 5 ==> with 5 and 15, we get 5sqrt(10).
+5sqrt(10) or 15.8113 is the diameter of the sphere.
+answer = B",1,382,1752,2134,
+4,2023-10-20 14:01:54,aqua-rat-100.jsonl,agi-eval/aqua-rat,226,Math,"Topic: Math
+Question: Peter wants to find 10 additional people to form a scavenger hunt team with him. If he has 10 friends who would like to participate, how many choices does he have for forming his team?
+Choices:
+  A: 0
+  B: 1
+  C: 2
+  D: 3
+  E: 4
+",,B,B,B,B,B,B,B,B,B,B,B,B,"Peter has 10 friends out of which he has to select 10 so 10C10= 1 Choice.
+ANSWER:B",1,363,1157,1520,
+5,2023-10-20 14:01:56,aqua-rat-100.jsonl,agi-eval/aqua-rat,68,Math,"Topic: Math
+Question: Assistants are needed to prepare for preparation. Each helper can make either 2 large cakes or 35 small cakes/hr. The kitchen is available for 3 hours and 20 large cakes & 700 small cakes are needed. How many helpers are required?
+Choices:
+  A: 8
+  B: 10
+  C: 12
+  D: 15
+  E: 19
+",,A,E,N,B,E,A,E,C,D,D,E,B,"20 large cakes will require the equivalent of 10 helpers working for one hour. 700 small cakes will require the equivalent of 20 helpers working for one hour. This means if only one hour were available we would need 30 helpers. But since three hours are available we can use 10 helpers.
+B",0,374,2747,3121,
+6,2023-10-20 14:02:03,aqua-rat-100.jsonl,agi-eval/aqua-rat,187,Math,"Topic: Math
+Question: An express electric train takes exact three seconds to enter tunnel which is 1 mile long.
+If train is traveling at 120 mile an hour, how long will it take to pass completely through the tunnel ?
+Choices:
+  A: 43 seconds
+  B: 39 seconds
+  C: 20 seconds
+  D: 33 seconds
+  E: 55 seconds
+",,E,D,D,D,D,C,D,D,N,D,D,D,"The train takes 30 seconds to travel 1 mile, plus 3 seconds for the complete train to pass any point, making a total of 33 seconds.",1,368,2266,2634,
+7,2023-10-20 14:02:08,aqua-rat-100.jsonl,agi-eval/aqua-rat,94,Math,"Topic: Math
+Question: A bookshelf contains 45 books, 30 of which are hardcover and 20 of which are fiction. What is the maximum number of books that are both hardcover and fiction?
+Choices:
+  A: 10
+  B: 15
+  C: 18
+  D: 20
+  E: 30
+",,D,D,D,D,D,D,D,A,D,D,D,D,"Total Books = 45
+Hard Cover = 30
+Non hardcover = 15
+Fiction = 20
+Non-Fiction = 25
+Maximum number of Hardcover fiction will be 20( Assuming All the Fiction Books are Hard Cover )
+Hence, the correct answer will be (D)",1,360,1123,1483,
+8,2023-10-20 14:02:12,aqua-rat-100.jsonl,agi-eval/aqua-rat,196,Math,"Topic: Math
+Question: An electric pole, 14 metres high, casts a shadow of 10 metres. Find the height of a tree that casts a shadow of 15 metres under similar conditions.
+Choices:
+  A: 21
+  B: 22
+  C: 20
+  D: 23
+  E: 24
+",,A,A,A,A,A,A,A,A,A,A,A,A,"direct proportion x1/y1=x2/y2
+14/10=15/x
+(14/10) 15=x
+21 = x
+Answer:A",1,357,1209,1566,
+9,2023-10-20 14:02:14,aqua-rat-100.jsonl,agi-eval/aqua-rat,104,Math,"Topic: Math
+Question: At what price should the Karan mark a sewing machine that costs him Rs. 1200/- so that even after offering a 20% discount, he makes 20% profit?
+Choices:
+  A: 1,879
+  B: 1,875
+  C: 1,876
+  D: 1,872
+  E: 1,800
+",,B,N,E,E,E,E,E,E,B,B,E,E,"Cost of a sewing machine = Rs. 1200/-
+By giving 20% discount on the marked price of a sewing machine, the cost price is :
+100/80 * 1200 = Rs. 1500/- By making a profit of 20% on the cost price of a sewing machine, the marked price of the sewing machine is:
+120/100 Ã— 1500 = Rs. 1,800/-
+ANSWER: 3",1,370,1750,2120,
+10,2023-10-20 14:02:18,aqua-rat-100.jsonl,agi-eval/aqua-rat,248,Math,"Topic: Math
+Question: John would make the 3-letter codes with diffenrent 5 vowels and 20 consonants with the condition that the middle letter must be vowel and the first letter and the third letter must be different from each other and are both consonant. How many different codes can be made?
+Choices:
+  A: 1,980
+  B: 2,020
+  C: 2,100
+  D: 2,200
+  E: 1,900
+",,E,E,E,E,N,E,E,E,E,E,E,E,"There should be a vowel in the middle of the 3-letter code, which means that 5 letters can be in the middle. Then, 20 letters can be placed in the first letter and 19 letters can be placed in the last letter as they should be different letters. Thus, 20*5*19=1,900.
+Therefore, the answer is E.",1,390,1502,1892,
+11,2023-10-20 14:02:21,aqua-rat-100.jsonl,agi-eval/aqua-rat,12,Math,"Topic: Math
+Question: At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?
+Choices:
+  A: 4,000
+  B: 4,200
+  C: 4,500
+  D: 4,800
+  E: 5,000
+",,A,A,A,A,A,A,A,A,A,A,A,A,"We're told that 10% of staplers in a factory are defective.
+X = Total staplers
+0.1X = defective staplers
+0.9X = normal staplers
+Next, we're told that 2% of the normal staplers were rejected by mistake and that this = 72 staplers.
+0.9X(0.02) = 72
+0.018X = 72
+18X = 72,000
+X = 4,000
+Final Answer:
+A",1,389,1632,2021,
+12,2023-10-20 14:02:24,aqua-rat-100.jsonl,agi-eval/aqua-rat,103,Math,"Topic: Math
+Question: M men agree to purchase a gift for Rs. D. If 3 men drop out how much more will each have to contribute towards the purchase of the gift?
+Choices:
+  A: D/(M-3)
+  B: MD/3
+  C: M/(D-3)
+  D: 3D/(M2-3M)
+  E: None of these
+",,A,D,A,A,A,A,A,A,D,D,A,D,"Initial contribution = D/m
+After 3 men drop out, then the contribution = D/M-3
+the extra amount to pay = (D/m-3)-D/m
+=D(m-m+3)/)(m^2-3*m)
+= 3D/(m^2-3*m)
+ANSWER:D",0,370,1238,1608,
+13,2023-10-20 14:02:27,aqua-rat-100.jsonl,agi-eval/aqua-rat,14,Math,"Topic: Math
+Question: Add: +45 and -30
+Choices:
+  A: -30
+  B: +30
+  C: 0
+  D: 15
+  E: -15
+",,D,D,D,D,D,D,D,D,D,D,D,D,"45 - 30 = 15
+ANSWER : D",1,330,1080,1410,
+14,2023-10-20 14:02:30,aqua-rat-100.jsonl,agi-eval/aqua-rat,146,Math,"Topic: Math
+Question: My wall contains 8 red colour ties, 13 violet colour ties,10 blue colour ties, 5 pink colour ties, 4 green colour ties. If electricity is gone and I want at least two ties of same colour then how many ties I should take out from my rack?
+Choices:
+  A: 2
+  B: 3
+  C: 4
+  D: 5
+  E: 6
+",,E,E,E,E,D,E,D,E,E,E,E,E,"5 ties will get you one of different colored ties in the worst case. Thus, one more tie and you will have at least one pair. Thus, 6 is the correct answer.
+ANSWER:E",1,380,1081,1461,
+15,2023-10-20 14:02:34,aqua-rat-100.jsonl,agi-eval/aqua-rat,144,Math,"Topic: Math
+Question: The events A and B are independent. The probability that event A occurs is 0.6, and the probability that at least one of the events A or B occurs is 0.96. What is the probability that event B occurs?
+Choices:
+  A: 0.5
+  B: 0.6
+  C: 0.7
+  D: 0.8
+  E: 0.9
+",,D,D,D,B,E,D,E,E,D,E,D,E,"Let x be the probability that B does not occur.
+P(A and B do not occur) = 1 - 0.96 = 0.04
+0.4x = 0.04
+x=0.1
+P(B occurs) = 1 - x = 0.9
+The answer is E.",0,381,1507,1888,
+16,2023-10-20 14:02:37,aqua-rat-100.jsonl,agi-eval/aqua-rat,50,Math,"Topic: Math
+Question: The price of a product is reduced by 30% . By what percentage should it be increased to make it 100%
+Choices:
+  A: 41.86%
+  B: 42.86%
+  C: 43.86%
+  D: 44.86%
+  E: 45.86%
+",,B,B,B,B,B,B,B,B,B,B,B,B,"If initial price is Rs 100 and reduced price is Rs 70.
+Then, to make it 100 again, price should increase by 100*30/70= 300/7 % or 42.86% approx
+ANSWER:B",1,358,1221,1579,
+17,2023-10-20 14:02:41,aqua-rat-100.jsonl,agi-eval/aqua-rat,93,Math,"Topic: Math
+Question: Two balls A and B rotate along a circular track. Ball A makes 2 full rotations in 26 minutes. Ball B makes 5 full rotation in 35 minutes. If they start rotating now from the same point, when will they be at the same starting point again?
+Choices:
+  A: 1 hour and 31 minutes
+  B: 2 hour and 31 minutes
+  C: 3 hour and 31 minutes
+  D: 4 hour and 31 minutes
+  E: 5 hour and 31 minutes
+",,A,A,A,A,A,A,A,N,A,A,A,A,"If ball A makes 2 rotations in 26 minutes, it makes 1 rotation in 13 minutes. If ball B makes 5 rotations in 35 minutes, it makes 1 rotation in 7 minutes.
+The two balls start rotating now and makes several rotations before they are at the SAME starting points. Ball A would have done a WHOLE number X of rotations and ball B would have done a WHOLE number Y of rotations. Also they would have rotated during the same period of time T. Hence
+T = 13 X = 7 Y
+Hence 13 X = 7 Y
+Solve the above for X
+X = 7 Y / 13
+We want the time when they are FIRST at the same starting point. Therefore X and Y are the smallest whole numbers of the equation X = 7 Y / 13. The smallest value of Y that gives X as a whole number is 13. Hence
+X = 7 (13) / 13 = 7
+Time T is given by
+T = 13 X = 13 * 7 = 91 minutes = 1 hour and 31 minutes
+correct answer A",1,403,1461,1864,
+18,2023-10-20 14:02:44,aqua-rat-100.jsonl,agi-eval/aqua-rat,142,Math,"Topic: Math
+Question: A flagstaff 17.5 metre high casts a shadow of length 40.25 metre. The height of building, which casts a shadow of length 28.75 metre under similar conditions will be :
+Choices:
+  A: 12 metre
+  B: 12.5 metre
+  C: 13.5 metre
+  D: 14 metre
+  E: 15 metre
+",,B,B,B,B,B,B,B,B,B,B,B,B,"Less shadow, Less Height (Direct Proportion)
+So, let height of building be x metre
+then,
+40.25:17.5::28.75:x
+=>x=17.5∗28.75/ 40.25
+=>x=12.5
+Option B",1,373,1303,1676,
+19,2023-10-20 14:02:47,aqua-rat-100.jsonl,agi-eval/aqua-rat,74,Math,"Topic: Math
+Question: Suppose you want to arrange your English, Hindi, Mathematics, History, Geography and Science books on a shelf. In how many ways can you do it ?
+Choices:
+  A: 520
+  B: 720
+  C: 920
+  D: None
+  E: Cannot be determined
+",,B,B,B,B,B,B,B,B,B,B,B,B,"We have to arrange 6 books. The number of permutations is 6*5*4*3*2*1= 720
+Answer : B",1,353,703,1056,
+20,2023-10-20 14:02:49,aqua-rat-100.jsonl,agi-eval/aqua-rat,19,Math,"Topic: Math
+Question: An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers?
+Choices:
+  A: (zy – 2x)/z
+  B: (zy – 2)/z
+  C: (zx – y)/(z – 2)
+  D: (zy – 2x)/(z -2)
+  E: (zy – x)/(z + 2)
+",,D,D,D,D,D,D,D,D,D,D,D,D,"Highest: H
+Lowest: L
+Number of students in the class: Z
+Number of students in the class excluding the highest and lowest : Z-2
+Average of Highest and Lowest: (H + L)/2=X => H+L=2X
+Average of Entire Class : (H+L+Others)/Z=Y => Others= ZY-2X
+Average of the others in the class: (ZY-2X)/(Z-2)
+Answer: D",1,439,2405,2844,
+21,2023-10-20 14:02:53,aqua-rat-100.jsonl,agi-eval/aqua-rat,99,Math,"Topic: Math
+Question: Silu and Meenu were walking on the road.
+Silu said, ""I weigh 51 Kgs. How much do you weigh?""
+Meenu replied that she wouldn't reveal her weight directly as she is overweight.
+But she said, ""I weigh 29 Kgs plus half of my weight. ""How much does Meenu weigh?
+Choices:
+  A: 12
+  B: 28
+  C: 27
+  D: 58
+  E: 91
+",,D,D,D,D,D,D,D,D,D,D,D,D,"It is given that Meenu weighs 29 Kgs plus half of her own weight.
+It means that 29 Kgs is the other half. So she weighs 58 Kgs.
+Solving mathematically, let's assume that her weight is A Kgs.
+A = 29 + A/2
+2 × A = 58 + A
+A = 58 Kgs.
+Answer:D",1,392,968,1360,
+22,2023-10-20 14:02:55,aqua-rat-100.jsonl,agi-eval/aqua-rat,130,Math,"Topic: Math
+Question: An astronaut weighing 211 pounds on Earth would weigh 182 pounds on Venus. The weight of the astronaut on Venus would be approximately what percent of the astronaut’s weight on Earth?
+Choices:
+  A: 50%
+  B: 60%
+  C: 70%
+  D: 86%
+  E: 90%
+",,D,D,D,D,D,D,D,D,D,D,D,D,"Weight of astronaut on Earth = 211 pounds
+Weight of astronaut on Venus = 182 pounds
+Weight of astronaut on Venus as a percentage of Weight of astronaut on Earth = (182/211)*100 = 86%
+Answer D",1,359,910,1269,
+23,2023-10-20 14:02:57,aqua-rat-100.jsonl,agi-eval/aqua-rat,116,Math,"Topic: Math
+Question: At its maximum speed, a space shuttle can travel 700m high in 40 seconds. It will also take 5 seconds to pass a point. What then is the length of the space shuttle?
+Choices:
+  A: 50 m
+  B: 75 m
+  C: 100 m
+  D: 125 m
+  E: 150 m
+",,N,N,D,N,N,N,N,N,N,D,N,C,"Let the length of the space shuttle be x metres and its speed be y m/sec. Then, x / y = 1 ⇒ y = x / 5
+∴ (x + 700) / 40 = x / 5 ⇔ x = 100 m. Answer C",0,368,1649,2017,
+24,2023-10-20 14:03:01,aqua-rat-100.jsonl,agi-eval/aqua-rat,247,Math,"Topic: Math
+Question: Alice wants to put up fencing around three sides of her rectangular yard and leave one side of 10 meters unfenced. If the yard has an area of 240 square meters, how many meters of fencing does she need?
+Choices:
+  A: 58
+  B: 62
+  C: 66
+  D: 70
+  E: 74
+",,A,B,D,N,C,A,C,N,D,D,D,A,"The sides of the rectangle have a length of 10 and L.
+The area is 10*L=240 so L=24.
+She needs fencing with a length of 10+2*24=58 meters.
+The answer is A.",0,367,2721,3088,
+25,2023-10-20 14:03:08,aqua-rat-100.jsonl,agi-eval/aqua-rat,141,Math,"Topic: Math
+Question: A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day?
+Choices:
+  A: 80
+  B: 120
+  C: 240
+  D: 320
+  E: 360
+",,C,C,C,E,E,B,E,E,E,C,E,E,"Since the store sold an equal number of white and yellow balls, 80%/2 = 40% of the inventory at the start of the day was white balls. Then 60% of the inventory consisted of yellow balls.
+0.6(600) = 360
+The answer is E.",1,409,1599,2008,
+26,2023-10-20 14:03:13,aqua-rat-100.jsonl,agi-eval/aqua-rat,72,Math,"Topic: Math
+Question: The bus fare for two persons for travelling between Agra and Aligarh id four-thirds the train fare between the same places for one person. The total fare paid by 6 persons travelling by bus and 8 persons travelling by train between the two places is Rs.1512. Find the train fare between the two places for one person?
+Choices:
+  A: 126
+  B: 77
+  C: 88
+  D: 66
+  E: 54
+",,A,A,A,A,A,N,N,A,,A,A,A,"Let the train fare between the two places for one person be Rs.t
+Bus fare between the two places for two persons Rs.4/3 t
+=> 6/2 (4/3 t) + 8(t) = 1512
+=> 12t = 1512 => t = 126.
+Answer:A",1,391,1745,2136,
+27,2023-10-20 14:03:17,aqua-rat-100.jsonl,agi-eval/aqua-rat,212,Math,"Topic: Math
+Question: Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day?
+Choices:
+  A: 20%
+  B: 25%
+  C: 30%
+  D: 35%
+  E: 40%
+",,A,A,A,A,A,A,A,A,A,A,A,A,"The amount remaining after each feeding session is 2/3 of what was in the bowl.
+There were four feeding sessions.
+The amount remaining just before noon was (2/3)^4 = 16/81, which is about 20%.
+The answer is A.",1,397,3016,3413,
+28,2023-10-20 14:03:25,aqua-rat-100.jsonl,agi-eval/aqua-rat,160,Math,"Topic: Math
+Question: Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?
+Choices:
+  A: $8
+  B: $10
+  C: $13.6
+  D: $22.9
+  E: $40
+",,N,N,N,N,B,C,N,C,N,N,N,C,"p = old price.
+n = the number of items for $300 for p.
+pn = (0.85p)(n + 5) --> n = 0.85(n + 5) --> n = 17.
+New price = 300/(n + 5) = 13.6.
+Answer: C.",0,359,1838,2197,
+29,2023-10-20 14:03:30,aqua-rat-100.jsonl,agi-eval/aqua-rat,175,Math,"Topic: Math
+Question: A rope 20 meters long is cut into two pieces. If the length of one piece of rope is 3 meters shorter than the length of the other, what is the length, in meters, of the longer piece of rope?
+Choices:
+  A: 7.5
+  B: 8.9
+  C: 9.9
+  D: 11.5
+  E: 11.7
+",,D,D,D,D,D,D,D,D,D,D,D,D,"Length of the rope = 20 meters.
+Assume length of longer piece = x meters.
+Length of shorter piece = x - 3
+We know that x + x - 3 = 20
+2x = 23
+Length of the longer piece = x = 11.5 meters
+Correct Option: D",1,379,1408,1787,
+30,2023-10-20 14:03:32,aqua-rat-100.jsonl,agi-eval/aqua-rat,157,Math,"Topic: Math
+Question: In a survey of students, each student selected from a list of 10 songs the 2 songs that the student liked best. If each song was selected 5 times, how many students were surveyed?
+Choices:
+  A: 96
+  B: 48
+  C: 32
+  D: 25
+  E: 18
+",,A,D,D,D,D,D,D,D,D,D,D,D,"Each out of 10 songs was selected 5 times --> the total number of selections = 10*5 = 50.
+Each student selected 2 songs --> the total number of students = 50/2 = 25.
+Answer: D.",1,363,889,1252,
+31,2023-10-20 14:03:35,aqua-rat-100.jsonl,agi-eval/aqua-rat,31,Math,"Topic: Math
+Question: The original retail price of an appliance was 60 percent more than its wholesale cost. If the appliance was actually sold for 20 percent less than the original retail price, then it was sold for what percent more than its wholesale cost?
+Choices:
+  A: 20%
+  B: 28%
+  C: 36%
+  D: 40%
+  E: 42%
+",,B,B,B,B,B,B,B,B,B,B,B,B,"wholesale cost = 100;
+original price = 100*1.6 = 160;
+actual price = 160*0.8 = 128.
+Answer: B.",1,370,1448,1818,
+32,2023-10-20 14:03:38,aqua-rat-100.jsonl,agi-eval/aqua-rat,33,Math,"Topic: Math
+Question: When folded into two equal halves a rectangular sheet had a perimeter of 48cm for each part folded along one set of sides and the same is 66cm when folded along the other set of sides. Find the area of the sheet.
+Choices:
+  A: 1584
+  B: 1120
+  C: 792
+  D: 1320
+  E: 1200
+",,E,N,C,E,E,E,D,A,E,A,E,B,"Let the sheet be folded along its breadth and its perimeter = 48cm
+Therefore, (l/2 + b) = 48 ... (i)
+Now, let the sheet be folded along its length, and the perimeter = 66cm
+(l + b/2)= 66 …... (ii)
+Solving (i) and (ii), we get,
+l = 56cm, b = 20cm
+Area = l*b
+Area = 1120 cm2
+ANSWER IS B",0,374,2439,2813,
+33,2023-10-20 14:03:44,aqua-rat-100.jsonl,agi-eval/aqua-rat,25,Math,"Topic: Math
+Question: On a normal day Bill usually averages about 15 mph when riding his bicycle. On a windy day, his speed is reduced by 4 mph. How far can Bill travel on a windy day in 21 minutes? Round to the nearest hundredth.
+Choices:
+  A: 2 miles
+  B: 2.25 miles
+  C: 3.25 miles
+  D: 3.85 miles
+  E: 2.85 miles
+",,D,D,D,D,D,D,D,D,D,D,D,D,"15 mph - 4 mph= 11 mph
+11 mph x (21/60)= 3.85 miles
+Answer D",1,386,1397,1783,
+34,2023-10-20 14:03:48,aqua-rat-100.jsonl,agi-eval/aqua-rat,101,Math,"Topic: Math
+Question: In a bag of red and green sweets, the ratio of red sweets to green sweets is 3:4. If the bag contains 120 green sweets, how many red sweets are there?
+Choices:
+  A: 90
+  B: 80
+  C: 95
+  D: 100
+  E: 85
+",,A,A,A,A,A,A,A,A,A,A,A,A,"Let x = red sweets
+Write the items in the ratio as a fraction.
+red/green=3/4=x/120
+3 × 120 = 4 × x
+360 = 4x
+x=360/4=90
+Answer:A",1,361,1471,1832,
+35,2023-10-20 14:03:52,aqua-rat-100.jsonl,agi-eval/aqua-rat,96,Math,"Topic: Math
+Question: A number of friends decided to go on a picnic and planned to spend Rs. 96 on eatables. Four of them, however, did not turn up. As a consequence, the remaining ones had to contribute Rs. 4 extra, each. The number of those who attended the picnic was
+Choices:
+  A: 8
+  B: 12
+  C: 16
+  D: 24
+  E: 25
+",,N,B,C,B,A,C,C,E,B,C,C,A,"Let the number of persons be x. Then,
+96/x-4-96/x=4 => x=12
+So, required number =x-4=8.
+Answer is A",0,383,2035,2418,
+36,2023-10-20 14:03:58,aqua-rat-100.jsonl,agi-eval/aqua-rat,204,Math,"Topic: Math
+Question: What is 60% of 30% of 1400 grams?
+Choices:
+  A: 450 gms
+  B: 100 gms
+  C: 252 gms
+  D: 240 gms
+  E: None of these
+",,C,C,C,C,C,C,C,C,C,E,C,C,"60/100 * 30/100 * 1400= 252
+Answer: C",1,346,906,1252,
+37,2023-10-20 14:04:01,aqua-rat-100.jsonl,agi-eval/aqua-rat,87,Math,"Topic: Math
+Question: there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school?
+Choices:
+  A: 550
+  B: 570
+  C: 600
+  D: 700
+  E: none of these
+",,E,E,E,C,E,C,A,E,E,C,E,E,"20% means 1/5 and 28% means 7/25,taking the lcm of the denominators 5 and 25 we get 25,the least multiple of 25 which is greater than 501 is 525. So, answer is none
+ANSWER:E",1,366,1968,2334,
+38,2023-10-20 14:04:07,aqua-rat-100.jsonl,agi-eval/aqua-rat,143,Math,"Topic: Math
+Question: Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other?
+Choices:
+  A: 3 hours
+  B: 5 hours
+  C: 6 hours
+  D: 4 hours
+  E: 7 hours
+",,B,B,B,B,B,B,B,B,B,B,B,B,"Relative Speed: 55-52=3 mph
+Distance:15 miles
+Time: distance/speed=15/3= 5 hours
+Correct answer is B",1,393,1556,1949,
+39,2023-10-20 14:04:12,aqua-rat-100.jsonl,agi-eval/aqua-rat,245,Math,"Topic: Math
+Question: A man wants to eat fruit for breakfast and vegetable for dinner. He has 6 different types of fruit and 8 different types of vegetables. He can only eat one type at a time. In how many ways can he eat breakfast and dinner.
+Choices:
+  A: 54
+  B: 24
+  C: 48
+  D: 20
+  E: 36
+",,C,C,C,C,C,C,C,C,C,C,C,C,"Number of choices for fruit=6, number of choices for vegetable=8
+The total number of combinations =8*6=48
+Answer C",1,372,1063,1435,
+40,2023-10-20 14:04:15,aqua-rat-100.jsonl,agi-eval/aqua-rat,194,Math,"Topic: Math
+Question: Suppose for any real number x, [x] denotes the greatest integer less than or equal to x. Let L(x,y) = [x] + [y] + [x + y] and R(x,y) = [2x] + [2y]. Then it is impossible to find any two positive real numbers x and y for which
+Choices:
+  A: L(x,y) = R(x,y)
+  B: L(x,y) ≠ R(x,y)
+  C: L(x,y) < R(x,y)
+  D: L(x,y) < R(x,y)
+  E: None
+",,A,A,D,C,B,A,D,D,A,C,A,D,"x – 1≤ [x] ≤ x
+2x + 2y - 3 ≤ L(x,y) ≤ 2x + 2y
+=> a – 3 ≤ L ≤ a
+2x + 2y -2 ≤ L(x,y) ≤ 2x + 2y
+=> a – 2 ≤ R ≤ a
+Therefore, L ≤ R.
+Answer : D",0,417,3173,3590,
+41,2023-10-20 14:04:23,aqua-rat-100.jsonl,agi-eval/aqua-rat,37,Math,"Topic: Math
+Question: While selling a watch, a shopkeeper gives a discount of 5%. If he gives a discount of 7%, he earns Rs. 15 less as profit. The marked price of the watch is:
+Choices:
+  A: Rs. 697.50
+  B: Rs. 712.50
+  C: Rs. 787.50
+  D: Rs. 750
+  E: Rs. 780
+",,D,D,D,D,D,D,D,D,D,D,D,D,"If he increases the discount by 2%, then his profit is 15 less. Let the marked price be X.
+.02x = 15
+x = 750 marked price
+ANSWER:D",1,380,1552,1932,
+42,2023-10-20 14:04:27,aqua-rat-100.jsonl,agi-eval/aqua-rat,51,Math,"Topic: Math
+Question: I have a money pouch containing Rs. 700. There are equal number of 25 paise coins, 50 paise coins and one rupee coins.
+How many of each are there?
+Choices:
+  A: 453
+  B: 651
+  C: 400
+  D: 487
+  E: 286
+",,C,C,6,C,C,5,C,2,E,C,C,C,"25 paise + 50 paise + 100 paise = 175 paise and Rs. 700 = 70,000 paise
+70,000/175 = 400",1,362,1962,2324,
+43,2023-10-20 14:04:32,aqua-rat-100.jsonl,agi-eval/aqua-rat,155,Math,"Topic: Math
+Question: The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:
+Choices:
+  A: 2.6m
+  B: 3.9m
+  C: 4m
+  D: 4.2m
+  E: 4.4m
+",,E,A,C,B,E,D,E,A,N,E,E,C,"Let, height= 2x metres & (length+ breadth)= 5x metres.
+Length of paper= (260/2)m= 130m.
+Therefore, area of paper= (130*50/100)= 65m2
+Area of 4 walls= (65+15)=80m2
+2(length+breadth)*height=80.
+Therefore, 2*5x*2x=80 or x2=4 or x=2
+Therefore, height of the room= 4m
+ANSWER:C",0,395,2569,2964,
+44,2023-10-20 14:04:38,aqua-rat-100.jsonl,agi-eval/aqua-rat,131,Math,"Topic: Math
+Question: A man walks at 5 kmph for 6 hrs and at 4 kmph for 12 hrs. His average speed is
+Choices:
+  A: 4 1/3 km/h
+  B: 7 2/3 km/h
+  C: 9 ½ km/h
+  D: 8 km/h
+  E: 81 km/h
+",,A,A,A,A,A,A,A,A,A,A,A,A,"Avg speed = total distance/total time
+= 5*6 + 4*12 / 18
+=4 1/3 km/h",1,370,1718,2088,
+45,2023-10-20 14:04:42,aqua-rat-100.jsonl,agi-eval/aqua-rat,243,Math,"Topic: Math
+Question: If one third of 3/4 of a number is 21. Then, find the number?
+Choices:
+  A: 84
+  B: 66
+  C: 28
+  D: 19
+  E: 11
+",,A,A,A,A,A,A,A,A,A,A,A,A,"x * 1/3 * 3/4 =21 => x = 84
+Answer: A",1,343,918,1261,
+46,2023-10-20 14:04:45,aqua-rat-100.jsonl,agi-eval/aqua-rat,129,Math,"Topic: Math
+Question: The difference between the squares of two numbers is 256000 and the sum of the numbers is 1000. The numbers are
+Choices:
+  A: 600, 400
+  B: 628, 372
+  C: 640, 360
+  D: None of these
+  E: Cannot be determined
+",,B,B,D,D,B,B,A,B,B,B,B,B,"Let the numbers be x and y.
+Then, x^2 - y^2 = 256000 and x + y = 1000.
+On dividing we get : x - y = 256.
+‹=›Solving x + y = 1000 and x - y = 256,
+‹=›we get : x = 628 and y = 372.
+Answer B",1,360,2537,2897,
+47,2023-10-20 14:04:51,aqua-rat-100.jsonl,agi-eval/aqua-rat,11,Math,"Topic: Math
+Question: A company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. What is the minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 ?
+Choices:
+  A: 226
+  B: 230
+  C: 240
+  D: 260
+  E: 280
+",,B,B,B,B,B,C,B,B,B,B,B,B,"450*12(x-110)=626400
+where x is a selling cost of one item
+x-110, is a profit from one item
+450 - number of items produced and sold per month
+12 - is a number of month in a year
+Simplifying the equation will lead to x-110=116, then x = 230
+B",1,395,1658,2053,
+48,2023-10-20 14:04:55,aqua-rat-100.jsonl,agi-eval/aqua-rat,244,Math,"Topic: Math
+Question: If m > 0, y > 0, and x is m percent of 4y, then, in terms of y, m is what percentage of x?
+Choices:
+  A: y/400
+  B: 4y
+  C: 50y
+  D: 2500/y
+  E: 5000/y
+",,A,D,D,N,N,A,D,D,A,C,D,D,"x = (m/100)*4y
+m = 100x/4y = 25x/y
+m is (2500/y)% of x.
+The answer is D.",1,364,1895,2259,
+49,2023-10-20 14:04:59,aqua-rat-100.jsonl,agi-eval/aqua-rat,10,Math,"Topic: Math
+Question: A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000?
+Choices:
+  A: 15
+  B: 24
+  C: 25
+  D: 40
+  E: 52
+",,N,D,D,D,A,D,D,C,D,D,D,D,"10% of 250 = 25.
+Total salary required = 1000
+Earning from single sale = 25
+# of sales = 1000/25 =40
+So 40 sales
+D is the correct choice",1,360,1591,1951,
+50,2023-10-20 14:05:03,aqua-rat-100.jsonl,agi-eval/aqua-rat,36,Math,"Topic: Math
+Question: A starts travel towards south 3km, then travel 5 km towards east, and again travels 3 km to north, and finally travels 2km towards west. In the end how far from is A from home?
+Choices:
+  A: 3km
+  B: 2km
+  C: 4km
+  D: 5km
+  E: 6km
+",,D,E,C,A,C,D,E,A,A,A,A,A,"3s,5e,3n,2w
+5-2=3e
+3-3=0
+3km
+ANSWER:A",1,373,1913,2286,
+51,2023-10-20 14:05:09,aqua-rat-100.jsonl,agi-eval/aqua-rat,183,Math,"Topic: Math
+Question: What should come in place of the question mark(?) in each of the following questions ?
+a2 - b2/(a + b)2 (?)=(a - b)2
+Choices:
+  A: (a + b)(a - b)
+  B: (a - b)2
+  C: (a + b)2
+  D: a3 + b3
+  E: None of these
+",,B,E,B,B,E,B,E,A,B,B,B,A,"(a - b)2 x (a + b)2 / a2 - b2 = (a - b)2 x (a + b)2 / (a + b)(a - b) = (a + b) (a - b)
+Answer : Option A",0,377,2094,2471,
+52,2023-10-20 14:05:15,aqua-rat-100.jsonl,agi-eval/aqua-rat,86,Math,"Topic: Math
+Question: M = abc is a three digit number and N = cba, if M > N and M - N + 396c = 990. Then how many values of M are more than 300.
+Choices:
+  A: 20
+  B: 30
+  C: 40
+  D: 200
+  E: None
+",,D,E,A,D,C,C,B,C,C,C,C,A,"From the given data,
+abc – cba + 396c = 990
+100a + 10b + c – (100c + 10b + a) + 396c = 990
+99a – 99c + 396c = 990
+Observe that each term is divisible by 99. So on dividing the above expression by 99, we get
+a – c + 4c = 10
+a + 3c = 10
+For c = 1, a = 7
+c = 2, a = 4
+c = 3, a = 1
+'b' can take any value from 0 to 9
+We have to find the value of M more than 300. So minimum value of 'a' should be 4.
+So total possibilities are 402, 412, ...., 492 = 10 values
+701, 711, ....., 791 = 10 values
+So total values = 20.
+Correct option: A",0,363,2796,3159,
+53,2023-10-20 14:05:20,aqua-rat-100.jsonl,agi-eval/aqua-rat,122,Math,"Topic: Math
+Question: A cyclist travels at 12 miles per hour. How many minutes will it take to travel 48 miles?
+Choices:
+  A: 1
+  B: 240
+  C: 30
+  D: 60
+  E: 120
+",,B,B,B,B,B,B,B,B,B,B,B,B,"At 12 miles per hour, to cover 48 miles the cyclist will need 4 hours or 240 minutes.
+Answer: B.",1,344,1288,1632,
+54,2023-10-20 14:05:24,aqua-rat-100.jsonl,agi-eval/aqua-rat,133,Math,"Topic: Math
+Question: Everyone in the family earns money each month. If the total income of a family per month is $9000 and the median income is $3000, how many members are there in the family?
+Choices:
+  A: 2
+  B: 3
+  C: 4
+  D: 5
+  E: 6
+",,B,E,D,B,B,B,C,B,B,E,B,B,"There must be more than two members.
+If there are four members, then the middle two average $3000 for a total of $6000, and the highest earner must earn at least $3000 which puts the total at $9000 minimum. The lowest earner pushes the total past $9000 so there can not be four family members.
+There must be three family members.
+The answer is B.",1,362,3221,3583,
+55,2023-10-20 14:05:38,aqua-rat-100.jsonl,agi-eval/aqua-rat,117,Math,"Topic: Math
+Question: A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join?
+Choices:
+  A: 2 months
+  B: 4 months
+  C: 23 months
+  D: 24 months
+  E: 84 months
+",,B,B,B,B,B,D,B,N,N,B,B,B,"Assume that C was there in the business for x months
+A:B:C = 40000*12 : 60000*10 : 120000*x
+= 40*12 : 60*10 : 120x = 40 : 5*10 : 10x
+=8 : 10 : 2x
+= 4 : 5 : x
+C's share = 375000*x/(9+x) = 150000
+=> 375x/(9+x) = 150
+=> 15x = 6(9+x)
+=> 5x = 18 + 2x
+=> 3x = 18
+=> x = 18/3 = 6
+It means C was there in the business for 6 months. Given that B joined the business
+after 2 months. Hence C joined after 4 months after B joined
+Answer is B",1,410,3504,3914,
+56,2023-10-20 14:06:03,aqua-rat-100.jsonl,agi-eval/aqua-rat,39,Math,"Topic: Math
+Question: The monthly salary S of a shop assistant is the sum of a fixed salary of $500 plus 5% of all monthly sales. What should the monthly sales be so that her monthly salary reaches $1500?
+Choices:
+  A: $50000
+  B: $40000
+  C: $30000
+  D: $20000
+  E: None of these
+",,D,D,D,D,D,D,D,D,D,D,D,D,"Let S be the total monthly salary and x be the monthly sales, hence
+S = 500 + 5% * x
+Find sales x so that S = 1500, hence
+1500 = 500 + 5% * x = 500 + 0.05 x
+Solve for x
+x = (1500 - 500) / 0.05 = $20000
+Answer D",1,370,1412,1782,
+57,2023-10-20 14:06:06,aqua-rat-100.jsonl,agi-eval/aqua-rat,156,Math,"Topic: Math
+Question: The sum of k consecutive integers is 51. If the least integer is -50, then k =
+Choices:
+  A: 40
+  B: 62
+  C: 82
+  D: 92
+  E: 102
+",,D,D,N,D,A,D,E,D,N,D,D,E,"The difference is consistent with each integers , therefore the series can be A.P.
+Sum of A.P. = A + (N-1) D
+A=First term
+D=Difference between each integer
+N=number of terms
+Sum = A + (N - 1 ) D
+51= -50 + N - 1
+N = 102
+Answer = E",0,343,2781,3124,
+58,2023-10-20 14:06:13,aqua-rat-100.jsonl,agi-eval/aqua-rat,132,Math,"Topic: Math
+Question: [(272 - 32) (124 + 176)] / (17 x 15 - 15) = ?
+Choices:
+  A: 0
+  B: 2.25
+  C: 300
+  D: 400
+  E: None of these
+",,C,C,E,C,C,C,C,C,E,E,C,C,"Given expression = [(272 - 32) (124 + 176)] / (17 x 15 - 15)
+= (240 x 300 ) / 240
+= 300
+Correct Option: C",1,349,1253,1602,
+59,2023-10-20 14:06:16,aqua-rat-100.jsonl,agi-eval/aqua-rat,205,Math,"Topic: Math
+Question: A certain liquid passes through a drain at a rate of w/25 gallons every x seconds. At that rate, how many minutes will it take y gallons to pass through the drain?
+Choices:
+  A: y/(1200xy)
+  B: 20xy/w
+  C: 5xy/(12w)
+  D: w/(3xy)
+  E: 3y/(wx)
+",,C,C,A,C,A,C,C,C,C,C,C,C,"Time needed for w/25 gallons of liquid to pass through a drain = x seconds
+Time needed for w gallons of liquid to pass through a drain = 25x seconds
+Time needed for y gallons of liquid to pass through a drain = (25x/w)*y = 25xy/w seconds
+= (25xy/w )/60 = 5xy/(12w) mins
+Answer C",1,374,1556,1930,
+60,2023-10-20 14:06:22,aqua-rat-100.jsonl,agi-eval/aqua-rat,84,Math,"Topic: Math
+Question: A square piece of cloth is trimmed by 4 feet on one edge to form a rectangular piece, which is then cut diagonally in half to create two triangles. If the area of each of triangle is 70 square feet, what was the perimeter (in feet) of the original piece of square cloth?
+Choices:
+  A: 56
+  B: 58
+  C: 60
+  D: 62
+  E: 64
+",,A,A,A,D,,A,C,A,A,A,A,A,"Let x be the length of one side of the original square.
+The area of the rectangle is x(x-4)=140.
+x=14.
+The perimeter of the square was 4*14=56 feet.
+The answer is A.",1,384,2844,3228,
+61,2023-10-20 14:06:33,aqua-rat-100.jsonl,agi-eval/aqua-rat,225,Math,"Topic: Math
+Question: A rectangular parking space is marked out by painting three of its sides. If the length of the unpainted side is 9 feet, and the sum of the lengths of the painted sides is 37 feet, then what is the area of the parking space in square feet?
+Choices:
+  A: 46
+  B: 81
+  C: 126
+  D: 252
+  E: None
+",,C,C,E,A,C,C,C,C,E,C,C,C,"We have l=9 and l+2b=37
+Area = (l x b)
+=(9 x 14) sq.ft
+= 126 sq.ft.
+Answer C",1,376,1796,2172,
+62,2023-10-20 14:06:40,aqua-rat-100.jsonl,agi-eval/aqua-rat,82,Math,"Topic: Math
+Question: Julie’s yard is rectangular. One side of the yard is 100 feet wide. The total area of the yard is 3,000 square feet. What is the length of the other side of the yard?
+Choices:
+  A: 30 feet
+  B: 20 feet
+  C: 10 feet
+  D: 50 feet
+  E: 60 feet
+",,A,A,A,A,A,A,A,A,A,A,A,A,"Area = length x width. Divide area by width to find the missing side.
+3000 ÷100 = 30
+The other side is 30 feet.
+Correct answer A",1,370,1313,1683,
+63,2023-10-20 14:06:43,aqua-rat-100.jsonl,agi-eval/aqua-rat,42,Math,"Topic: Math
+Question: Hoses A and B spout water at different constant rates, and hose A can fill a certain pool in 8 hours. Hose A filled the pool alone for the first 2 hours and the two hoses, working together, then finished filling the pool in another 3 hours. How many hours would it have taken hose B, working alone, to fill the entire pool?
+Choices:
+  A: 8
+  B: 15
+  C: 12
+  D: 6
+  E: 3
+",,A,D,E,C,C,D,C,D,B,C,C,A,"Since hose A can fill the pool in 8 hours, then in 2 + 3 = 5 hours it will fill 5/8th of the pool. Thus the remaining 3/8th is filled by hose B in 3 hours. This means that hose B,working alone, to fill the entire pool will need 3*8/3 = 8 hours.
+Answer: A.",0,398,2443,2841,
+64,2023-10-20 14:06:51,aqua-rat-100.jsonl,agi-eval/aqua-rat,221,Math,"Topic: Math
+Question: Two numbers are in the ratio 3:5. If 9 is subtracted from each, the new numbers are in the ratio 12:23. The smaller number is?
+Choices:
+  A: 21
+  B: 33
+  C: 35
+  D: 42
+  E: 58
+",,B,B,N,N,B,B,N,N,A,B,B,B,"Let the numbers be 3x and 5x
+3x-9 / 5x-9 = 12/23
+23(3x-9) = 12(5x-9)
+9x = 99
+x = 11
+The smaller number is = 3*11 = 33
+Answer is B",1,359,1319,1678,
+65,2023-10-20 14:06:56,aqua-rat-100.jsonl,agi-eval/aqua-rat,158,Math,"Topic: Math
+Question: If one of the roots of the quadratic equation x^2 + mx + 22 = 0 is 1.5, then what is the value of m?
+Choices:
+  A: -23.5
+  B: -17.5
+  C: -10.5
+  D: -16.2
+  E: Cannot be determined
+",,A,D,D,D,D,E,D,B,E,A,D,D,"Here x=1.5 must satisfy the equation
+=> 1.5^2 + 1.5m + 22 = 0
+=> m=-16.2
+ANSWER:D",1,365,3400,3765,
+66,2023-10-20 14:07:06,aqua-rat-100.jsonl,agi-eval/aqua-rat,77,Math,"Topic: Math
+Question: In a large forest, 300 deer were caught, tagged, and returned during 2001. During 2002, 500 deer were caught at random, of which only 20 had tags from the previous year. If the percent of deer in the forest that had tags during the second year and were caught in the 500 deer sample is representative of the percent of the total deer population in the forest with tags, what is the total deer population in the forest (assuming no change in population between 2001 and 2002)?
+Choices:
+  A: 300
+  B: 500
+  C: 5000
+  D: 6000
+  E: 7500
+",,E,C,E,E,E,E,E,E,E,E,E,E,"Let N = the total number of deer in the forest.
+During the first year, the percent of deer in the entire population with tags was: 300/N
+20/500 is the percent of deer caught during the second year that had tags. Since this sample percent matches the percent for the entire population (i.e., the total number of tagged deer divided by the total number of deer), the two ratios are equal.
+Equating these two percents:
+Sample = Population
+(20/500)=(300/N)
+N = (300/1)*(500/20)
+N=7500
+Answer E",1,434,2078,2512,
+67,2023-10-20 14:07:13,aqua-rat-100.jsonl,agi-eval/aqua-rat,152,Math,"Topic: Math
+Question: In an exam, a candidate secured 504 marks of the maximum mark of M. If the maximum mark M is converted into 800 marks, he would have secured 420 marks. What is the value of M?
+Choices:
+  A: 278
+  B: 2890
+  C: 270
+  D: 2702
+  E: 960
+",,E,E,E,E,E,E,E,E,E,E,E,E,"504/M = 420/800
+(504 * 800) / 420 = M
+M = 960
+Answer:E",1,368,1355,1723,
+68,2023-10-20 14:07:16,aqua-rat-100.jsonl,agi-eval/aqua-rat,218,Math,"Topic: Math
+Question: On dividing 2272 and 875 by a 3-digit number N, we get the same remainder. The sum of the digits of N is:
+Choices:
+  A: 10
+  B: 11
+  C: 12
+  D: 13
+  E: 14
+",,E,A,A,,N,N,A,D,A,N,A,A,"(2272 - 875) = 1397, is exactly divisible by N.
+Now, 1397 = 11 * 127
+The required 3-digit number is 127, the sum of whose digit is 10.
+ANSWER:A",1,353,9301,9654,
+69,2023-10-20 14:09:18,aqua-rat-100.jsonl,agi-eval/aqua-rat,233,Math,"Topic: Math
+Question: By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?
+Choices:
+  A: 4
+  B: 8
+  C: 22
+  D: 50
+  E: 20
+",,E,B,A,C,C,B,E,B,E,E,E,E,"Jack did 2/3 of the work, which is 8 hours. So if Jack would finish the job this would take him 4 extra hours. Jill's rate is 5% of what Jack would do in those 4 hours. That means it would take her ten times as much time as Jack put into the job. 5*4 equals 20, answer E.",1,388,3025,3413,
+70,2023-10-20 14:09:25,aqua-rat-100.jsonl,agi-eval/aqua-rat,211,Math,"Topic: Math
+Question: Mr.Sam takes 17 hours to go by train to a certain city and return by car. He loses 4 hours if he goes both ways by train. How long would he have taken if he had traveled by car in both ways?
+Choices:
+  A: 22 hrs
+  B: 18 hrs
+  C: 16 hrs
+  D: 20 hrs
+  E: 13 hrs
+",,E,E,D,C,D,D,B,A,E,D,D,E,"Going one way by train and one way by car, he takes 17 hours.
+Going both ways by train, he takes 4 hours more => The train takes 4 hours more one way
+Therefore travelling both ways by car, he takes 4 hours less than 17
+=> He takes 17-4 = 13 hours.
+E)",0,376,2562,2938,
+71,2023-10-20 14:09:34,aqua-rat-100.jsonl,agi-eval/aqua-rat,137,Math,"Topic: Math
+Question: For bringing each copper coin from the bottom of a river, a coin-diver gets 20 cents, and for each brass coin she gets 25 cents. If after one dive, she got $3.40. What is the minimum number of copper coins that she brought?
+Choices:
+  A: 4
+  B: 3
+  C: 2
+  D: 1
+  E: 0
+",,D,B,A,C,C,C,D,D,D,C,C,C,"Let's subtract $0.20 until we find a multiple of $0.25.
+$3.40 - $0.20*2 = $3.00, which is a multiple of $0.25.
+The answer is C.",1,378,3440,3818,
+72,2023-10-20 14:09:40,aqua-rat-100.jsonl,agi-eval/aqua-rat,126,Math,"Topic: Math
+Question: The sum of the digits of a three digit number is 17, and the sum of the squares of its digits is 109. If we subtract 495 from the number, we shall get a number consisting of the same digits written in the reverse order. Find the number.
+Choices:
+  A: 368
+  B: 377
+  C: 288
+  D: 997
+  E: 112
+",,C,E,E,D,N,E,A,B,A,B,E,A,"Sum of the squares should be equal to 109. Only Options B and D satisfying. When we subtract 495, only 863 becomes 368
+Answer:A",0,378,2618,2996,
+73,2023-10-20 14:09:46,aqua-rat-100.jsonl,agi-eval/aqua-rat,182,Math,"Topic: Math
+Question: Fernando purchased a university meal plan that allows him to have a total of 3 lunches and 3 dinners per week. If the cafeteria is closed on weekends and Fernando always goes home for a dinner on Friday nights, how many options does he have to allocate his meals?
+Choices:
+  A: 5C3*4C3
+  B: 5C4*4C2
+  C: 5C2*4C4
+  D: 5C6*4C5
+  E: 4C3*4C3
+",,C,N,B,B,B,N,N,A,B,A,B,A,"He can allocate his 3 free lunches on any 3 days from 5 (excluding weekends), so in 5C3 ways.
+He can allocate his 3 free dinners on any 3 days from 4 (excluding weekends and Friday), so in 4C3 ways.
+Total = 5C3*4C3 ways
+ANS:A",0,406,1233,1639,
+74,2023-10-20 14:09:49,aqua-rat-100.jsonl,agi-eval/aqua-rat,145,Math,"Topic: Math
+Question: The ratio of the volumes of a cube to that of the sphere which will fit inside the cube is?
+Choices:
+  A: 2: π
+  B: 7:2
+  C: 8:2
+  D: 6: π
+  E: 8:3
+",,D,D,D,D,D,D,D,D,D,D,D,D,"a3 : a3/8 * 4/3 π => 6: π
+Answer: Option D",1,353,1374,1727,
+75,2023-10-20 14:09:51,aqua-rat-100.jsonl,agi-eval/aqua-rat,189,Math,"Topic: Math
+Question: There are ten lime soda bottles on a table in a restaurant. They are to be served among two different groups of customers consisting of 5 members each. How many ways are there to create these 2 groups?
+Choices:
+  A: 90
+  B: 105
+  C: 126
+  D: 252
+  E: 525
+",,D,D,D,D,D,D,D,D,D,D,D,D,"Number of ways to select 5 bottles out of 10= 10!/5!5!= 252
+D is the answer",1,365,1096,1461,
+76,2023-10-20 14:09:54,aqua-rat-100.jsonl,agi-eval/aqua-rat,202,Math,"Topic: Math
+Question: All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm?
+Choices:
+  A: 50
+  B: 70
+  C: 75
+  D: 100
+  E: 125
+",,7,C,1,E,D,C,D,A,E,D,D,C,"n(Total) = 250
+n(only worm) = 125(50% of total)
+n(only worm ) = 2.5 * n(both worm and virus)
+So,
+n(both worn and virus) = 125/2.5 = 50
+n(Total) = n(only worm) + n(both worm and virus) + n(only virus)
+n(only virus) = 250-125-50 = 75
+Hence, the files not infected by worm is n(Only virus) = 75
+ANSWER :(Option C)",0,402,2599,3001,
+77,2023-10-20 14:09:59,aqua-rat-100.jsonl,agi-eval/aqua-rat,5,Math,"Topic: Math
+Question: A trader sold an article at a profit of 20% for Rs.360. What is the cost price of the article?
+Choices:
+  A: 270
+  B: 300
+  C: 280
+  D: 320
+  E: 315
+",,B,B,B,B,B,B,B,B,B,B,B,B,"Cost Price = Selling Price / (100+Profit%) × 100 => 360 / (100+20) × 100 => 360 / 120 × 100 = Rs.300
+Option B",1,348,1113,1461,
+78,2023-10-20 14:10:01,aqua-rat-100.jsonl,agi-eval/aqua-rat,95,Math,"Topic: Math
+Question: A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?
+Choices:
+  A: 15
+  B: 30
+  C: 45
+  D: 60
+  E: 75
+",,A,A,B,A,A,A,A,A,A,B,A,A,"Number of paper bought on monday = x
+# of paper bought on sunday = 2x
+Total cost = 210 = 6*x(rest of the day cost)+8*x (sunday cost)
+14x = 210
+x = 15
+Ans A",1,380,2362,2742,
+79,2023-10-20 14:10:06,aqua-rat-100.jsonl,agi-eval/aqua-rat,85,Math,"Topic: Math
+Question: The length of the ribbon was originally 30 cm. It was reduced in the ratio 5 : 3. What is its length now?
+Choices:
+  A: 18
+  B: 30
+  C: 6
+  D: 15
+  E: 12
+",,A,A,A,A,N,A,A,A,A,A,A,A,"Length of ribbon originally = 30 cm
+Let the original length be 5x and reduced length be 3x.
+But 5x = 30 cm
+x = 30/5 cm = 6 cm
+Therefore, reduced length = 3 cm
+= 3 × 6 cm = 18 cm
+Answer:A",1,351,1079,1430,
+80,2023-10-20 14:10:08,aqua-rat-100.jsonl,agi-eval/aqua-rat,173,Math,"Topic: Math
+Question: Allen starts from X, goes to Y. At the same time Bob starts from Y and goes towards X. Once Allen reaches Y he changes his direction and returns to X. Once Bob reaches X, he changes his direction and returns to Y. Throughout Allen travels at 54 kmph and Bob travels at 78kmph. By the time they meet for the second time, Bob covers 48 km more than Allen. Find the distance between X and Y.
+Choices:
+  A: 144km
+  B: 72 km
+  C: 126km
+  D: 84 km
+  E: 48km
+",,A,D,A,C,C,A,A,N,A,C,A,E,"Total distance 126km
+in an hour both Allen and Bob covered 126km
+that is 54+78=132
+they meet for the first time Bob covered more KM than Allen. 78-54=24.
+so when they meet for the second time Bob covered 24*2= 48 more km (ANSWER E)",0,420,3310,3730,
+81,2023-10-20 14:10:15,aqua-rat-100.jsonl,agi-eval/aqua-rat,29,Math,"Topic: Math
+Question: A jeep travels a certain distance taking 6 hours in the forward journey. During the return journey, it increased its speed by 12km/hr and took 4 hours. What is the distance travelled by the jeep?
+Choices:
+  A: 126km
+  B: 144km
+  C: 127km
+  D: 228km
+  E: 128km
+",,N,D,B,B,N,D,B,B,D,B,B,B,"Let 'x' be the distance and 'y' be the speed of the forward journey. Then, we have 6v=d and 4(v+12)=d
+=> v=d/6 and v=d/4 - 12
+=> d/6 = d/4 - 12
+=> d/12 = 12
+=> d=144
+Answer: B",1,371,2354,2725,
+82,2023-10-20 14:10:21,aqua-rat-100.jsonl,agi-eval/aqua-rat,107,Math,"Topic: Math
+Question: The number of water lilies on a certain lake doubles every two days. If there is exactly one water lily on the lake, it takes 60 days for the lake to be fully covered with water lilies. In how many days will the lake be fully covered with lilies, if initially there were 64 water lilies on it?
+Choices:
+  A: 15
+  B: 28
+  C: 30
+  D: 53
+  E: 59
+",,D,N,D,D,N,N,D,D,D,D,D,D,"Starting from 1 Water Lilly it takes 60 days.
+If there are already two present, it can be taken as the first day is over.
+It will take 59 more days.
+Notice that we are told thatthe number of water lilies on a certain lake doubles every two days, thus if initially there were 64 water lilies instead of one, we can consider that 7 days are over and therefore only 53 days are left.
+Answer: D.",1,392,2369,2761,
+83,2023-10-20 14:10:28,aqua-rat-100.jsonl,agi-eval/aqua-rat,150,Math,"Topic: Math
+Question: A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?
+Choices:
+  A: 1 hr 23 min
+  B: 1 hr 15 min
+  C: 1 hr 8 min
+  D: 56 min
+  E: 55 min
+",,N,N,C,B,N,N,B,,A,E,N,D,"Let the distance between the cities be x
+They meet after y hrs after 7am
+M covers x in 4hrs
+N covers x in 3 1/2 i.e 7/2 hrs
+speed of M =x/4
+speed of N = 2x/7
+Distance covered by M in y+2 hrs + Distance covered by N in
+y hrs is x
+x/4 (y+2) +2x/7(y)=x
+y=14/15hr or 56 min
+Answer : D.",0,387,3082,3469,
+84,2023-10-20 14:10:37,aqua-rat-100.jsonl,agi-eval/aqua-rat,79,Math,"Topic: Math
+Question: The average (arithmetic mean) of the weight of 10 vehicles is 12.2 tons. The average weight of the group of vehicles increased by 2.6 tons after a new heavy duty truck was added to the group? What is the weight in tons of the heavy duty truck?
+Choices:
+  A: 40.8
+  B: 41.6
+  C: 42.2
+  D: 43.5
+  E: 44.8
+",,A,A,B,A,E,A,B,A,A,B,A,A,"The new average is 14.8 tons.
+On average, the ten trucks are 2.6 tons below the average for a total weighting of 26 tons.
+Therefore, the added truck must be 14.8 + 26 = 40.8 tons
+The answer is A.",1,392,1897,2289,
+85,2023-10-20 14:10:41,aqua-rat-100.jsonl,agi-eval/aqua-rat,162,Math,"Topic: Math
+Question: 10kg of a mixture contains 30% sand and 70% clay. In order to make the mixture contain equal quantities of clay and sand how much of the mixture is to be removed and replaced with pure sand?
+Choices:
+  A: 10/7
+  B: 20/7
+  C: 30/7
+  D: 40/7
+  E: 50/7
+",,B,B,A,B,D,B,N,B,A,D,B,B,"The mixture contains 3kg sand and 7 kg clay.
+For the mixture to be in equal quantities, there should be 2 kg of clay removed.
+Clay and sand are in the ratio 7:3
+So part of sand to be removed = 2*3/7 = 6/7
+So total mixture to be removed = 2 + 6/7 = 20/7
+ANSWER:B",1,377,2641,3018,
+86,2023-10-20 14:10:46,aqua-rat-100.jsonl,agi-eval/aqua-rat,7,Math,"Topic: Math
+Question: Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct?
+Choices:
+  A: 74453
+  B: 64543
+  C: 74325
+  D: 65000
+  E: 97656
+",,C,D,1,2,N,D,D,2,2,1,2,D,"Out of 26 alphabets two distinct letters can be chosen in 26P2 ways. Coming to the numbers part, there are 10 ways to choose the first digit and similarly, there are another 10 ways to choose the second digit. Hence, there are in total 10X10 = 100 ways.
+Combined with letters there are 6P2 X 100 ways = 65000 ways to choose vehicle numbers.
+D",0,362,2036,2398,
+87,2023-10-20 14:10:52,aqua-rat-100.jsonl,agi-eval/aqua-rat,153,Math,"Topic: Math
+Question: If Jill needed to buy 10 bottles of soda for a party in which 8 people attended, how many bottles of soda will she need to buy for a party in which 12 people are attending?
+Choices:
+  A: 6
+  B: 8
+  C: 10
+  D: 12
+  E: 14
+",,E,E,E,E,N,E,E,E,E,E,E,C,"We can set up a proportion to solve:
+10 bottles / 8 people = x bottles / 12 people.
+Cross-multiply to solve a proportion:
+(10)(12) = (8)(x)
+120 = 8x
+10 = x
+Answer :C.",0,363,1234,1597,
+88,2023-10-20 14:10:54,aqua-rat-100.jsonl,agi-eval/aqua-rat,179,Math,"Topic: Math
+Question: What will be the cost of gardening 1-metre – broad boundary around a rectangular plot having perimeter of 340 metres at the rate of 10 per square metre?
+Choices:
+  A: 3400
+  B: 1700
+  C: 3440
+  D: Cannot be determined
+  E: None of these
+",,D,C,D,D,D,C,C,C,C,C,C,C,"Let l and b be the length and breadth of rectangular plot respectively.
+∴ According to the question,we have
+2(l + b) = 340 ⇒ l + b = 170
+Now, (l + 2) and (b + 2) be the length and breadth of plot with boundary.
+∴ Required area = (l + 2) (b + 2) – lb
+= lb + 2l + 2b + 4 – lb
+= 2(l + b) + 4 = 344
+∴ Required cost = 344 × 10 = 3440
+Answer C",1,361,3550,3911,
+89,2023-10-20 14:11:14,aqua-rat-100.jsonl,agi-eval/aqua-rat,250,Math,"Topic: Math
+Question: The capacity of a tank of dimensions (8 m × 6 m × 2.5 m) is
+Choices:
+  A: 120 litres
+  B: 1200 litres
+  C: 12000 litres
+  D: 120000 litres
+  E: None of these
+",,D,D,D,D,D,D,D,D,D,D,D,D,"Capacity of the bank = Volume of the bank
+= (8x100x6x100x2.5x100/1000) =
+answer D",1,353,1030,1383,
+90,2023-10-20 14:11:16,aqua-rat-100.jsonl,agi-eval/aqua-rat,149,Math,"Topic: Math
+Question: Calculate the percentage gain of a merchant who purchased 90 kg of oranges for Rs. 450 and sold the whole lot at the rate of Rs. 7.50 per kg.
+Choices:
+  A: 50 %
+  B: 60 %
+  C: 55 %
+  D: 70 %
+  E: 58%
+",,A,A,A,A,A,A,A,A,A,A,A,A,"C.P. of 1 kg = 450/90 = Rs. 5
+S.P. of 1 kg = Rs. 7.50
+Gain = 7.50-5 = 2.50
+Gain % = 2.50/5 * 100 = 50%. Answer: A",1,360,1363,1723,
+91,2023-10-20 14:11:19,aqua-rat-100.jsonl,agi-eval/aqua-rat,148,Math,"Topic: Math
+Question: The value of log2 4 is:
+Choices:
+  A: 2
+  B: 4
+  C: 6
+  D: 8
+  E: 12
+",,A,A,A,A,A,A,A,A,A,A,A,A,"Let log2 4 = n.
+log2 4 = 2.
+Answer: Option A",1,331,681,1012,
+92,2023-10-20 14:11:20,aqua-rat-100.jsonl,agi-eval/aqua-rat,59,Math,"Topic: Math
+Question: There is well of depth 30m and frog is at bottom of the well. He jumps 3m up one day and falls back 2m down the same day. How many days will it take for the frog to come out of the well?
+Choices:
+  A: 25 days
+  B: 26 days
+  C: 27 days
+  D: 28 days
+  E: 29 days
+",,E,E,E,E,E,E,E,A,E,E,E,D,"frog jumps 3 m up day & falls back 2 m down at night
+so,frog will be 3-2=1 m up in a day.
+Thus, in 27 days it will be 27 m up
+on 28 th day it will be at top i.e 27+3 = 30 m & will not fall down.
+ANSWER:D",0,379,1197,1576,
+93,2023-10-20 14:11:22,aqua-rat-100.jsonl,agi-eval/aqua-rat,242,Math,"Topic: Math
+Question: Joe's age, Joe's sister's age and Joe’s fathers age sums up to 100. When Joe is as old as his father, Joe's sister will be twice as old as now. When Joe is as old as his father then his father is twice as old as when his sister was as old as her father. Find the age of Joe's father?
+Choices:
+  A: 45
+  B: 48
+  C: 50
+  D: 55
+  E: 58
+",,C,C,E,A,C,B,C,B,C,D,C,C,"Joe+Sister+Father=100
+After x years joe age is equal to his father
+Joe+x = father
+Therefore, Sister+x = 2 * Sister
+=> Sister=x
+Joe+Sister=Father
+Therefore,
+=> 2*Father = 100
+=> Father= 50
+Hence (C) is the correct answer",1,396,2744,3140,
+94,2023-10-20 14:11:27,aqua-rat-100.jsonl,agi-eval/aqua-rat,172,Math,"Topic: Math
+Question: Christopher and Jonathan were having bets. They decide that a coin will be flipped twenty times and each time it turns heads, Christopher will give $2 to Jonathan and each time it turns out to be Tails, Jonathan will give 3$ to Christopher. After flipping for twenty times none of the both won or lost any amount.
+How many times did the coin landed on Heads ?
+Choices:
+  A: 10
+  B: 23
+  C: 16
+  D: 18
+  E: 12
+",,A,A,E,E,E,E,E,E,E,E,E,E,"The amount won and lost by both is equal.
+Thus 2x = 3(20-x) --- x in the number of times heads came
+X = 12",1,398,1912,2310,
+95,2023-10-20 14:11:32,aqua-rat-100.jsonl,agi-eval/aqua-rat,123,Math,"Topic: Math
+Question: Kevin drove from A to B at a constant speed of 70 mph. Once he reached B, he turned right around with pause, and returned to A at a constant speed of 90 mph. Exactly 3 hours before the end of his trip, he was still approaching B, only 70 miles away from it. What is the distance between A and B?
+Choices:
+  A: 180
+  B: 90
+  C: 270
+  D: 360
+  E: None of the above
+",,,C,D,C,E,D,E,C,E,,E,A,"In the last 70 miles of his approach to B, Kevin was traveling at 70 mph, so he traveled that distance in 1 hr, or 60 minutes. That means, when he arrived at B, 60 minutes had elapsed, and he took (3 hr) – (1 hr) = 2 hr to drive the distance D at 90 mph.
+D = RT = (90 mph)[ (2 hr] = 180 mi
+Answer = (A)",0,398,3814,4212,
+96,2023-10-20 14:11:41,aqua-rat-100.jsonl,agi-eval/aqua-rat,44,Math,"Topic: Math
+Question: I know a 5 digit number having a property that with a 1 after it, it is three times as large as it would be with a 1 before it.
+What is that number?
+Choices:
+  A: 42857
+  B: 32456
+  C: 76523
+  D: 24567
+  E: 43566
+",,A,A,N,A,N,A,A,A,N,E,A,A,"Let the number be x
+10x +1 = 3(100,000 + x)
+=> x = 42857.",1,367,5171,5538,
+97,2023-10-20 14:12:05,aqua-rat-100.jsonl,agi-eval/aqua-rat,135,Math,"Topic: Math
+Question: An organization decided to raise Rs. 6 lakh by collecting equal contribution from each of its employees. If each of them had contributed Rs. 60 extra, the contribution would have been Rs. 6.24 lakh. How many employees are there in that organization?
+Choices:
+  A: 300
+  B: 200
+  C: 400
+  D: 100
+  E: 500
+",,C,C,C,C,D,C,C,C,C,C,C,C,"Required number of employees = (624000 - 600000)/60=24000/60=400
+Answer is C.",1,376,1794,2170,
+98,2023-10-20 14:12:08,aqua-rat-100.jsonl,agi-eval/aqua-rat,98,Math,"Topic: Math
+Question: A man divides Rs 8600 among 5 sons, 4 daughters and 2 nephews. If each daughter receives four times as much as each nephew, and each son receives five as much as each nephew. How much does each daughter receive ?
+Choices:
+  A: Rs 400
+  B: Rs 500
+  C: Rs 600
+  D: Rs 700
+  E: Rs 800
+",,A,E,E,D,N,E,E,A,E,E,E,E,"If each nephew got Rs x, then
+2x+16x+25x = 8600
+x= 200
+Each daughter got 4*200 = Rs 800
+ANSWER:E",1,378,1697,2075,
+99,2023-10-20 14:12:12,aqua-rat-100.jsonl,agi-eval/aqua-rat,38,Math,"Topic: Math
+Question: A student instead of finding the value of 7/8 of a number, found the value of 7/18 of the number. If his answer differed from the actual one by 770, find the that number.
+Choices:
+  A: 1584
+  B: 2520
+  C: 1728
+  D: 1656
+  E: None
+",,A,A,A,A,B,A,A,A,A,A,A,A,"According to the question,
+=> [7/8 - 7/18 ]x = 770
+=> 7*10*x /18*8 = 770
+=> x = 11*18*8
+=> 1584.
+Answer : A",1,370,1346,1716,
+100,2023-10-20 14:12:16,aqua-rat-100.jsonl,agi-eval/aqua-rat,63,Math,"Topic: Math
+Question: Calculate the maximum distance you can travel with $8.50 on a cab which charges $3.50 for the first quarter-mile and 10 cents for each additional quarter mile.
+Choices:
+  A: 11.75 miles
+  B: 12.75 miles
+  C: 17.75 miles
+  D: 14.75 miles
+  E: 10.75 miles
+",,D,B,B,D,D,B,B,D,N,B,B,B,"Subtract the fee for te first quarter mile $8.50 - $3.50 = $5
+Calculate how many extra additional quarter miles---$5/10 cents => 50 quarter miles => 12.5 miles
+Total distance is 12.5 miles + 1/4 (first quarter mile)
+12.75 miles
+Answer: B",1,373,2051,2424,

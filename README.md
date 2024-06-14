@@ -3,9 +3,9 @@
 ## Abstract
 In this research study, we empirically investigate the effect of sampling temperature on the performance of Large Language Models (LLMs) on various problem-solving tasks. 
 
-We created a multiple-choice question-and-answer (MCQA) exam by randomly sampling problems from standard LLM benchmarks. Then, we used four popular LLMs with five prompt-engineering techniques to solve the MCQA problems while increasing the sampling temperature from 0.0 to 1.0. 
+We created a multiple-choice question-and-answer (MCQA) exam by randomly sampling problems from standard LLM benchmarks. Then, we used nine popular LLMs with five prompt-engineering techniques to solve the MCQA problems while increasing the sampling temperature from 0.0 to 1.6. 
 
-Despite anecdotal reports to the contrary, our empirical results indicate that changes in temperature in the range 0.0 to 1.0 do not have a statistically significant impact on LLM performance for problem-solving tasks. In addition, these results appear to hold regardless of the LLM, the prompt-engineering technique, or the problem domain. 
+Despite anecdotal reports to the contrary, our empirical results indicate that changes in temperature from 0.0 to 1.0 do not have a statistically significant impact on LLM performance for problem-solving tasks. In addition, these results appear to generalize across LLMs, prompt-engineering techniques, and problem domains. 
 
 ## Documents
 - [Paper](http://arxiv.org/abs/2402.05201)
@@ -14,8 +14,7 @@ Despite anecdotal reports to the contrary, our empirical results indicate that c
 - [Source](source/) - contains all source code
 - [Models](source/models) - contains the model-specific code
 - [Prompts](source/agents) - contains LLM agent prompt code
-- [Process](source/process/) - contains the data pre-processing scripts
-- [Analyze](source/analyze/) - contains the data analysis scripts
+- [Exams](source/exams/) - contains the code to load exams 
 
 ## Data
 - [Exams](data/exams/) - contains the test dataset
@@ -28,6 +27,7 @@ Despite anecdotal reports to the contrary, our empirical results indicate that c
 - [Plots](plots/) - contains all data visualizations
 
 ## Notes
+- [Source](source/) contains all scripts for experiments, processing, and analysis
 - See [Requirements.txt](source/requirements.txt) for a list of packages used in this experiment.
-- [GitHub Copilot](https://github.com/features/copilot) was used in the creation of source code for this experiment.
+- [GitHub Copilot](https://github.com/features/copilot) was used in the creation of this experiment.
 

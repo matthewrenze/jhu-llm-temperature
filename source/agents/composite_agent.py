@@ -25,7 +25,7 @@ Choices:
 example_solution = """
 Knowledge: 
   Johns Hopkins University is located in Baltimore, Maryland.
-  A: Baltimore is a city located in the state of Maryland, but it is not the capital of Maryland.
+  A: Baltimore is a city located in the State of Maryland, but it is not the capital of Maryland.
   B: Annapolis is a the capital of the State of Maryland.
   C: Des Moines is a city located in the State of Iowa, but it is not the capital of Iowa.
   D: Las Vegas is located in the State of Nevada, but it is not the capital of Nevada.
@@ -36,7 +36,7 @@ Thought:
   Therefore, the capital of the state where Johns Hopkins University is located is Baltimore.
   The answer is A: Baltimore.
 Criticism: 
-  You are correct that Johns Hopkins is located in the State of Baltimore. 
+  You are correct that Johns Hopkins is located in the State of Maryland. 
   However, the capital of Maryland is Annapolis, not Baltimore.
   So, the correct answer is actually B: Annapolis.
 Action: Answer("B")  

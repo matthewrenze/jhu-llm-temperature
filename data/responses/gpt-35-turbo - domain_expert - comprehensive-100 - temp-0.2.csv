@@ -1,0 +1,2211 @@
+Model Name,Agent Name,Exam Name,Temperature,Problem ID,Response ID,Text
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,1,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,1,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,1,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,1,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,1,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,1,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,1,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,1,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,1,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,1,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,2,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,2,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,2,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,2,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,2,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,2,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,2,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,2,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,2,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,2,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,3,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,3,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,3,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,3,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,3,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,3,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,3,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,3,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,3,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,3,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,4,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,4,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,4,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,4,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,4,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,4,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,4,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,4,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,4,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,4,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,5,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,5,1,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,5,2,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,5,3,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,5,4,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,5,5,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,5,6,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,5,7,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,5,8,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,5,9,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,6,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,6,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,6,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,6,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,6,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,6,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,6,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,6,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,6,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,6,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,7,0,"Let's assume that there are 100 employees in the company. Then, 75% of them, or 75 employees, take a winter vacation. 40% of them, or 40 employees, take both a winter and a summer vacation. And 20% of them, or 20 employees, take neither a winter nor a summer vacation. 
+
+To find the percentage of employees who take a summer vacation but not a winter vacation, we need to subtract the number of employees who take both vacations from the number of employees who take only a summer vacation. 
+
+The number of employees who take only a summer vacation is equal to the total number of employees who take a summer vacation minus the number of employees who take both vacations: 
+
+Total summer vacationers - Both vacations = Only summer vacation 
+
+100% - 20% - 40% = 40% 
+
+So, 40% of the employees take only a summer vacation. 
+
+Therefore, the answer is: 
+
+Action: Answer(""B"") 15%
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,7,1,"Let's assume that there are 100 employees in the company. 
+
+If 75% of the employees take a winter vacation, then 25% of the employees do not take a winter vacation. 
+
+If 20% of the employees take neither a winter nor a summer vacation, then 80% of the employees take at least one vacation. 
+
+If 40% of the employees take both winter and summer vacations, then 40% of the employees who take a summer vacation also take a winter vacation. 
+
+Therefore, the percentage of employees who take a summer vacation but not a winter vacation is:
+
+Q = (100% - 25% - 40% - 20%) - 15% = 20%
+
+Answer: Answer(""None of the Above"") [The answer is not one of the given choices. The closest answer is 20%.]
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,7,2,"Let's assume that there are 100 employees in the company. Then, 75 employees take a winter vacation, 40 employees take both winter and summer vacations, and 20 employees take neither winter nor summer vacations. 
+
+Let's find the number of employees who take a winter vacation but not a summer vacation. This can be found by subtracting the number of employees who take both winter and summer vacations from the total number of employees who take a winter vacation: 
+
+75 - 40 = 35 
+
+Now, let's find the number of employees who take a summer vacation: 
+
+100 - 20 = 80 
+
+Finally, we can find the number of employees who take a summer vacation but not a winter vacation by subtracting the number of employees who take both winter and summer vacations and the number of employees who take a winter vacation but not a summer vacation from the total number of employees who take a summer vacation: 
+
+80 - 40 - 35 = 5 
+
+So, 5 out of 100 employees take a summer vacation but not a winter vacation, which is 5%. 
+
+Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,7,3,"Let's assume that there are 100 employees in the company.
+Given that 75% of the employees take a winter vacation, 25% of the employees do not take a winter vacation.
+Out of these 25%, 20% take neither a winter nor a summer vacation. Therefore, 5% of the employees take only a summer vacation.
+Now, we know that 40% of the employees take a winter and a summer vacation. So, the percentage of employees who take both winter and summer vacations is 40%.
+Therefore, the percentage of employees who take a summer vacation but not a winter vacation is 40% - 5% = 35%.
+Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,7,4,"Let's assume that there are 100 employees in the company.
+Given, 75% of the employees take a winter vacation. So, 75 employees take a winter vacation.
+Given, 40% of the employees take a winter and a summer vacation. So, 40 employees take both winter and summer vacations.
+Given, 20% of the employees take neither a winter nor a summer vacation. So, 20 employees take neither winter nor summer vacations.
+Let's assume that Q% of the employees take a summer vacation but not a winter vacation. So, x employees take only summer vacation.
+Total employees who take summer vacation = Employees who take both summer and winter vacation + Employees who take only summer vacation
+=> 40 + x
+Total employees = Employees who take winter vacation + Employees who take both summer and winter vacation + Employees who take only summer vacation + Employees who take neither winter nor summer vacation
+=> 75 + 40 + x + 20 = 100
+=> x = 15
+So, 15% of the employees take a summer vacation but not a winter vacation.
+Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,7,5,"Let's assume that there are 100 employees in the company. 
+
+According to the problem, 75% of the employees take a winter vacation, which means 75 employees take a winter vacation. 
+
+40% of the employees take a winter and a summer vacation, which means 40 employees take both vacations. 
+
+20% of the employees take neither a winter nor a summer vacation, which means 20 employees take neither vacation. 
+
+We can use this information to find out how many employees take a summer vacation but not a winter vacation. 
+
+Let's start by finding out how many employees take a summer vacation in total. 
+
+If 40% take both vacations, then 60% take only a winter or only a summer vacation. 
+
+If 20% take neither vacation, then 80% take at least one vacation. 
+
+So, 80% of 100 employees is 80 employees who take at least one vacation. 
+
+If 75 employees take a winter vacation, then 80 - 75 = 5 employees take only a summer vacation. 
+
+Therefore, the answer is 5% or choice A. 
+
+Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,7,6,"Let's assume that there are 100 employees in the company. Then, 75 employees take a winter vacation, 40 employees take both winter and summer vacations, and 20 employees take neither winter nor summer vacations. 
+
+Let's find out how many employees take at least one vacation: 
+
+75 employees take a winter vacation 
+40 employees take both winter and summer vacations 
+So, a total of 75 + 40 = 115 employees take a winter vacation or a summer vacation (or both). 
+
+Therefore, 100 - 20 = 80 employees take at least one vacation. 
+
+Now, let's find out how many employees take a summer vacation: 
+
+40 employees take both winter and summer vacations 
+So, a total of 40 employees take a summer vacation. 
+
+Finally, let's find out how many employees take a summer vacation but not a winter vacation: 
+
+This is equal to the number of employees who take a summer vacation minus the number of employees who take both winter and summer vacations: 
+
+40 - 40 = 0 
+
+So, 0 percent of the employees take a summer vacation but not a winter vacation. 
+
+Answer: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,7,7,"Let's assume that there are 100 employees in the company. Then, 75% of them take a winter vacation, which is 75 employees. 20% of them take neither a winter nor a summer vacation, which is 20 employees. Therefore, 100 - 75 - 20 = 5 employees take only a winter vacation. 
+
+Now, 40% of the employees take both winter and summer vacations, which is 40 employees. Therefore, the number of employees who take a summer vacation is 40 + Q. 
+
+We know that the total number of employees is 100, so we can set up the equation: 
+
+75 (winter) + 40 (both) + 20 (neither) + 5 (only winter) + Q (only summer) = 100 
+
+Simplifying this equation, we get: 
+
+Q = 15 
+
+Therefore, the answer is 15%, which is choice B. 
+
+Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,7,8,"Let's assume that there are 100 employees in the company. Then, 75% of them take a winter vacation, which is 75 employees. 20% of them take neither a winter nor a summer vacation, which is 20 employees. So, the remaining 5% of them (5 employees) do not take a winter vacation but take either a summer vacation or both. 
+
+Now, we know that 40% of the employees take both winter and summer vacations, which is 40 employees. Therefore, the number of employees who take a summer vacation is (40 - 5) = 35 employees. 
+
+So, the percentage of employees who take a summer vacation but not a winter vacation is (35/100) * 100 = 35%.
+
+Therefore, the answer is: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,7,9,"Let's assume that there are 100 employees in the company. Then, 75% of them, or 75 employees, take a winter vacation. 40% of the employees, or 40 employees, take both a winter and a summer vacation. And 20% of the employees, or 20 employees, take neither a winter nor a summer vacation. 
+
+To find the percentage of employees who take a summer vacation but not a winter vacation, we can use the formula:
+
+Q = (% taking summer vacation) - (% taking both summer and winter vacation)
+
+We know that 20 employees take neither a winter nor a summer vacation, so the remaining 80 employees must have taken either a winter or a summer vacation or both. 
+
+If 75 employees took a winter vacation, then 80 - 75 = 5 employees must have taken only a summer vacation or both a summer and winter vacation. 
+
+If 40 employees took both a winter and a summer vacation, then 5 employees must have taken only a summer vacation. 
+
+Therefore, Q = 5%, so the answer is (A) 5%. 
+
+Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,8,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,8,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,8,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,8,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,8,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,8,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,8,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,8,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,8,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,8,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,9,0,"Action: Answer(""42.86%"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,9,1,"Action: Answer(""42.86%"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,9,2,"Action: Answer(""42.86%"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,9,3,"Action: Answer(""42.86%"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,9,4,"Action: Answer(""42.86%"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,9,5,"Action: Answer(""42.86%"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,9,6,"Action: Answer(""42.86%"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,9,7,"Action: Answer(""42.86%"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,9,8,"Action: Answer(""42.86%"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,9,9,"Action: Answer(""42.86%"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,10,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,10,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,10,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,10,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,10,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,10,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,10,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,10,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,10,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,10,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,11,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,11,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,11,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,11,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,11,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,11,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,11,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,11,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,11,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,11,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,12,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,12,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,12,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,12,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,12,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,12,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,12,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,12,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,12,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,12,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,13,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,13,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,13,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,13,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,13,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,13,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,13,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,13,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,13,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,13,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,14,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,14,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,14,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,14,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,14,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,14,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,14,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,14,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,14,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,14,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,15,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,15,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,15,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,15,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,15,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,15,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,15,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,15,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,15,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,15,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,16,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,16,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,16,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,16,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,16,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,16,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,16,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,16,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,16,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,16,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,17,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,17,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,17,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,17,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,17,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,17,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,17,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,17,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,17,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,17,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,18,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,18,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,18,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,18,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,18,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,18,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,18,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,18,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,18,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,18,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,19,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,19,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,19,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,19,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,19,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,19,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,19,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,19,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,19,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,19,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,20,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,20,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,20,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,20,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,20,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,20,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,20,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,20,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,20,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,20,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,21,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,21,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,21,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,21,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,21,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,21,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,21,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,21,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,21,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,21,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,22,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,22,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,22,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,22,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,22,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,22,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,22,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,22,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,22,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,22,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,23,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,23,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,23,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,23,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,23,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,23,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,23,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,23,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,23,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,23,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,24,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,24,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,24,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,24,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,24,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,24,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,24,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,24,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,24,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,24,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,25,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,25,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,25,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,25,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,25,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,25,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,25,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,25,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,25,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,25,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,26,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,26,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,26,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,26,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,26,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,26,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,26,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,26,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,26,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,26,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,27,0,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,27,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,27,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,27,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,27,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,27,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,27,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,27,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,27,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,27,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,28,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,28,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,28,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,28,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,28,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,28,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,28,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,28,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,28,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,28,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,29,0,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,29,1,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,29,2,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,29,3,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,29,4,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,29,5,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,29,6,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,29,7,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,29,8,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,29,9,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,30,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,30,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,30,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,30,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,30,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,30,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,30,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,30,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,30,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,30,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,31,0,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,31,1,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,31,2,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,31,3,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,31,4,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,31,5,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,31,6,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,31,7,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,31,8,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,31,9,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,32,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,32,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,32,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,32,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,32,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,32,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,32,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,32,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,32,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,32,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,33,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,33,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,33,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,33,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,33,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,33,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,33,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,33,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,33,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,33,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,34,0,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,34,1,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,34,2,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,34,3,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,34,4,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,34,5,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,34,6,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,34,7,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,34,8,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,34,9,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,35,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,35,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,35,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,35,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,35,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,35,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,35,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,35,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,35,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,35,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,36,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,36,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,36,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,36,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,36,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,36,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,36,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,36,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,36,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,36,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,37,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,37,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,37,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,37,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,37,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,37,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,37,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,37,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,37,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,37,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,38,0,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,38,1,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,38,2,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,38,3,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,38,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,38,5,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,38,6,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,38,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,38,8,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,38,9,"Action: Answer(""E"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,39,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,39,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,39,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,39,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,39,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,39,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,39,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,39,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,39,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,39,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,40,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,40,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,40,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,40,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,40,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,40,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,40,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,40,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,40,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,40,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,41,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,41,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,41,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,41,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,41,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,41,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,41,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,41,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,41,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,41,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,42,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,42,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,42,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,42,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,42,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,42,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,42,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,42,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,42,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,42,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,43,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,43,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,43,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,43,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,43,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,43,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,43,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,43,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,43,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,43,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,44,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,44,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,44,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,44,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,44,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,44,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,44,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,44,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,44,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,44,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,45,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,45,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,45,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,45,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,45,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,45,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,45,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,45,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,45,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,45,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,46,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,46,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,46,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,46,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,46,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,46,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,46,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,46,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,46,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,46,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,47,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,47,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,47,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,47,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,47,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,47,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,47,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,47,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,47,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,47,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,48,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,48,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,48,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,48,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,48,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,48,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,48,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,48,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,48,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,48,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,49,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,49,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,49,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,49,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,49,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,49,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,49,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,49,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,49,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,49,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,50,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,50,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,50,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,50,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,50,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,50,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,50,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,50,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,50,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,50,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,51,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,51,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,51,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,51,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,51,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,51,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,51,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,51,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,51,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,51,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,52,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,52,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,52,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,52,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,52,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,52,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,52,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,52,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,52,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,52,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,53,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,53,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,53,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,53,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,53,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,53,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,53,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,53,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,53,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,53,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,54,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,54,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,54,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,54,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,54,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,54,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,54,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,54,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,54,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,54,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,55,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,55,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,55,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,55,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,55,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,55,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,55,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,55,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,55,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,55,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,56,0,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,56,1,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,56,2,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,56,3,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,56,4,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,56,5,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,56,6,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,56,7,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,56,8,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,56,9,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,57,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,57,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,57,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,57,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,57,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,57,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,57,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,57,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,57,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,57,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,58,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,58,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,58,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,58,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,58,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,58,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,58,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,58,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,58,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,58,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,59,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,59,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,59,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,59,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,59,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,59,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,59,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,59,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,59,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,59,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,60,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,60,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,60,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,60,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,60,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,60,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,60,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,60,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,60,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,60,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,61,0,"Action: Answer(""3"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,61,1,"Action: Answer(""3"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,61,2,"Action: Answer(""3"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,61,3,"Action: Answer(""3"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,61,4,"Action: Answer(""3"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,61,5,"Action: Answer(""3"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,61,6,"Action: Answer(""3"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,61,7,"Action: Answer(""3"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,61,8,"Action: Answer(""3"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,61,9,"Action: Answer(""3"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,62,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,62,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,62,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,62,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,62,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,62,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,62,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,62,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,62,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,62,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,63,0,"Since 1 decagram is equal to 10 grams, then 2 decagrams is equal to 20 grams. Since 1,000 milligrams is equal to 1 gram, then 20 grams is equal to 20,000 milligrams. Therefore, there are 20,000 1-milligram doses in one 2-decagram container. 
+
+Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,63,1,"We can use the given conversion factors to convert decagrams to grams and grams to milligrams: $$\begin{aligned} 1 \text{ decagram } &= 10 \text{ grams } \\ &= 10 \times 1,000 \text{ milligrams } \\ &= 10,000 \text{ milligrams } \end{aligned}$$ Therefore, a 2-decagram container contains $2 \times 10,000 = 20,000$ milligrams. Since we want to find the number of 1-milligram doses in the container, we divide by 1 milligram: $$\frac{20,000 \text{ milligrams}}{1 \text{ milligram}} = 20,000$$ Answer: $\boxed{\textbf{(D) }20,000}$.
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,63,2,"We have $1$ decagram $=10$ grams $=10,000$ milligrams. Therefore, $2$ decagrams $=20,000$ milligrams. Since there are $20,000$ milligrams in one 2-decagram container, there are $\boxed{\textbf{(D)}\ 20,000}$ 1-milligram doses in one 2-decagram container. 
+
+Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,63,3,"We have $1$ decagram $= 10$ grams and $1,000$ milligrams $= 1$ gram. Therefore, $1$ decagram $= 10,000$ milligrams. 
+
+Since there are $2$ decagrams in one container, there are $2 \cdot 10,000 = 20,000$ milligrams in one container. 
+
+Therefore, there are $\boxed{\textbf{(C)}\ 2,\!000}$ 1-milligram doses in one 2-decagram container.
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,63,4,"We can use the given information to convert decagrams to milligrams: $$\begin{aligned} 1 \text{ decagram } &= 10 \text{ grams } \\ &= 10 \times 1000 \text{ milligrams } \\ &= 10,000 \text{ milligrams } \end{aligned}$$
+So, one 2-decagram container contains $2 \times 10,000 = 20,000$ milligrams. Since we want to find the number of 1-milligram doses, we divide 20,000 by 1 to get:
+$$\frac{20,000 \text{ milligrams}}{1 \text{ milligram/dose}} = 20,000 \text{ doses}$$
+Therefore, the answer is $\boxed{\textbf{(D) } 20,000}$.
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,63,5,"We can use the given conversion factors to convert from decagrams to grams to milligrams. We have:
+$$\begin{aligned} 2\text{ decagrams} &= 2 \cdot 10 \text{ grams} \\ &= 20 \cdot 1000 \text{ milligrams} \\ &= 20,000 \text{ milligrams} \end{aligned}$$
+Therefore, there are 20,000 milligrams in one 2-decagram container. Since we want to find the number of 1-milligram doses, we divide by 1 milligram:
+$$\frac{20,000 \text{ milligrams}}{1 \text{ milligram}} = 20,000$$
+Answer: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,63,6,"We can use the given conversion factors to convert from decagrams to grams to milligrams. 
+
+$$\begin{aligned} 2 \text{ decagrams} &= 2 \cdot 10 \text{ grams} \\ &= 20 \cdot 1000 \text{ milligrams} \\ &= 20,000 \text{ milligrams} \end{aligned}$$
+
+Therefore, there are 20,000 milligrams in one 2-decagram container. 
+
+To find the number of 1-milligram doses, we divide by 1 milligram: 
+
+$$\frac{20,000 \text{ milligrams}}{1 \text{ milligram}} = 20,000$$
+
+So there are 20,000 1-milligram doses in one 2-decagram container. 
+
+Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,63,7,"We have $1$ decagram $=10$ grams $=10,000$ milligrams. Therefore, $2$ decagrams $=20,000$ milligrams. Since there are $20,000$ milligrams in one 2-decagram container, there are $\boxed{\textbf{(D)}\ 20,000}$ 1-milligram doses in one 2-decagram container. 
+
+Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,63,8,"We can use the given information to convert the mass of the container from decagrams to milligrams. First, we convert 2 decagrams to grams: $$2\text{ dag}=2\times 10\text{ g}=20\text{ g}.$$ Then, we convert 20 grams to milligrams: $$20\text{ g}=20\times 1000\text{ mg}=20,000\text{ mg}.$$ Finally, since there are 20,000 milligrams in one 2-decagram container, there are also 20,000 1-milligram doses in one 2-decagram container. 
+
+Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,63,9,"We can use the given conversion factors to convert from decagrams to grams to milligrams. $$\begin{aligned} 2 \text{ decagrams } &= 2 \cdot 10 \text{ grams } = 20 \text{ grams } \\ &= 20 \cdot 1000 \text{ milligrams } = 20,000 \text{ milligrams } \end{aligned}$$Therefore, there are 20,000 1-milligram doses in one 2-decagram container. 
+
+Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,64,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,64,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,64,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,64,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,64,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,64,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,64,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,64,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,64,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,64,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,65,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,65,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,65,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,65,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,65,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,65,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,65,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,65,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,65,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,65,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,66,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,66,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,66,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,66,3,"To solve this problem, we can use the point-slope form of the equation of a line. The equation of a line with slope $m$ passing through the point $(x_1,y_1)$ is given by:
+
+$y - y_1 = m(x - x_1)$
+
+In this case, we know that the line passes through the origin, so $x_1 = 0$ and $y_1 = 0$. We also know that the slope of the line is $\frac{1}{7}$. Substituting these values into the equation above, we get:
+
+$y - 0 = \frac{1}{7}(x - 0)$
+
+Simplifying, we get:
+
+$y = \frac{1}{7}x$
+
+Now we can check which of the given points lie on this line by substituting their coordinates into this equation and seeing if the equation is true. 
+
+Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,66,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,66,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,66,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,66,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,66,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,66,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,67,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,67,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,67,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,67,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,67,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,67,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,67,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,67,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,67,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,67,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,68,0,"Action: Answer(""2"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,68,1,"Action: Answer(""2"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,68,2,"Action: Answer(""2"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,68,3,"Action: Answer(""2"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,68,4,"Action: Answer(""2"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,68,5,"Action: Answer(""2"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,68,6,"Action: Answer(""2"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,68,7,"Action: Answer(""2"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,68,8,"Action: Answer(""2"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,68,9,"Action: Answer(""2"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,69,0,"The probability that the person belonged to Group Y is the ratio of the number of people in Group Y who recalled at least 1 dream to the total number of people who recalled at least 1 dream. This is given by $\frac{68}{39+68}=\frac{68}{107}$. 
+
+Simplifying, we get $\frac{68}{107}=\frac{4}{7}$. 
+
+Therefore, the answer is:
+
+Action: Answer(""None of the Above"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,69,1,"The probability that the person belonged to Group Y given that they recalled at least 1 dream is equal to the number of people in Group Y who recalled at least 1 dream divided by the total number of people who recalled at least 1 dream. From the table, we can see that the total number of people who recalled at least 1 dream is $39+125=164$, and the number of people in Group Y who recalled at least 1 dream is $11+68=79$. Therefore, the probability that the person belonged to Group Y is:
+
+$$\frac{79}{164}$$
+
+Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,69,2,"Out of the 39 people who recalled 1 or more dreams, 68 - 11 = 57 people who belong to Group Y recalled 5 or more dreams. Therefore, the probability that a person chosen at random from those who recalled at least 1 dream belonged to Group Y is $\frac{11+57}{39} = \frac{68}{39} = \frac{4}{\frac{39}{17}} = \frac{4}{\frac{3}{\frac{39}{17}}} = \frac{4}{\frac{3}{\frac{39}{17}}} = \frac{4}{\frac{39}{17}\cdot3} = \frac{4}{\frac{117}{17}} = \frac{68}{117}$. 
+
+Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,69,3,"The probability that the person belonged to Group Y given that they recalled at least 1 dream is equal to the probability that the person belonged to Group Y and recalled at least 1 dream divided by the probability that the person recalled at least 1 dream. 
+
+The probability that the person belonged to Group Y and recalled at least 1 dream is $\frac{68}{200}$. 
+
+The probability that the person recalled at least 1 dream is $\frac{39+125}{200}=\frac{164}{200}$. 
+
+So, the probability that the person belonged to Group Y given that they recalled at least 1 dream is:
+
+$$\frac{\frac{68}{200}}{\frac{164}{200}}=\frac{68}{164}=\frac{17}{41}$$
+
+Therefore, the answer is $\boxed{\textbf{(C)}\ \frac{79}{164}}$.
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,69,4,"The probability that the person belonged to Group Y is the number of people in Group Y who recalled at least 1 dream divided by the total number of people who recalled at least 1 dream. From the table, we see that the number of people in Group Y who recalled at least 1 dream is $11+68=79$, and the total number of people who recalled at least 1 dream is $39+125=164$. Therefore, the probability is:
+
+$$\frac{79}{164}$$
+
+Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,69,5,"The probability that the person belonged to Group Y is the number of people who recalled 1 or more dreams in Group Y divided by the total number of people who recalled 1 or more dreams. From the table, we see that 11 + 68 = 79 people in Group Y recalled 1 or more dreams. Similarly, 28 + 57 = 85 people in Group X recalled 1 or more dreams. Thus, the probability that the person belonged to Group Y is $\frac{79}{79+85}=\frac{79}{164}$. 
+
+Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,69,6,"The probability that the person belonged to Group Y is the number of people in Group Y who recalled at least 1 dream divided by the total number of people who recalled at least 1 dream. From the table, we see that the total number of people who recalled at least 1 dream is $39+125=164$, and the number of people in Group Y who recalled at least 1 dream is $11+68=79$. Therefore, the probability is:
+
+$$\frac{79}{164}$$
+
+Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,69,7,"The probability that the person belonged to Group Y given that they recalled at least 1 dream is equal to the number of people in Group Y who recalled at least 1 dream divided by the total number of people who recalled at least 1 dream. From the table, we see that the total number of people who recalled at least 1 dream is $39+125=164$, and the number of people in Group Y who recalled at least 1 dream is $11+68=79$. Therefore, the probability that the person belonged to Group Y is:
+
+$$\frac{79}{164}$$
+
+Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,69,8,"The probability that the person belonged to Group Y given that they recalled at least 1 dream is equal to the probability that the person belonged to Group Y and recalled at least 1 dream divided by the probability that the person recalled at least 1 dream. 
+
+The probability that the person belonged to Group Y and recalled at least 1 dream is $\frac{68}{200}$. 
+
+The probability that the person recalled at least 1 dream is $\frac{39+125}{200}=\frac{164}{200}$. 
+
+Therefore, the probability that the person belonged to Group Y given that they recalled at least 1 dream is $\frac{\frac{68}{200}}{\frac{164}{200}}=\frac{68}{164}=\boxed{\textbf{(C) }\frac{79}{164}}$.
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,69,9,"The probability that the person belonged to Group Y is the number of people in Group Y who recalled at least 1 dream divided by the total number of people who recalled at least 1 dream. From the table, we see that the number of people in Group Y who recalled at least 1 dream is $11+68=79$, and the total number of people who recalled at least 1 dream is $39+125=164$. Therefore, the probability is:
+
+$$\frac{79}{164}$$
+
+Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,70,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,70,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,70,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,70,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,70,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,70,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,70,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,70,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,70,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,70,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,71,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,71,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,71,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,71,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,71,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,71,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,71,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,71,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,71,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,71,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,72,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,72,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,72,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,72,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,72,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,72,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,72,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,72,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,72,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,72,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,73,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,73,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,73,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,73,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,73,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,73,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,73,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,73,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,73,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,73,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,74,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,74,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,74,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,74,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,74,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,74,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,74,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,74,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,74,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,74,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,75,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,75,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,75,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,75,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,75,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,75,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,75,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,75,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,75,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,75,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,76,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,76,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,76,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,76,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,76,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,76,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,76,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,76,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,76,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,76,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,77,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,77,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,77,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,77,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,77,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,77,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,77,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,77,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,77,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,77,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,78,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,78,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,78,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,78,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,78,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,78,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,78,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,78,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,78,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,78,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,79,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,79,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,79,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,79,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,79,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,79,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,79,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,79,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,79,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,79,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,80,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,80,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,80,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,80,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,80,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,80,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,80,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,80,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,80,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,80,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,81,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,81,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,81,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,81,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,81,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,81,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,81,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,81,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,81,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,81,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,82,0,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,82,1,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,82,2,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,82,3,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,82,4,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,82,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,82,6,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,82,7,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,82,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,82,9,"Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,84,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,84,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,84,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,84,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,84,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,84,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,84,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,84,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,84,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,84,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,85,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,85,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,85,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,85,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,85,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,85,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,85,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,85,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,85,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,85,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,86,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,86,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,86,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,86,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,86,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,86,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,86,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,86,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,86,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,86,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,87,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,87,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,87,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,87,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,87,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,87,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,87,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,87,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,87,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,87,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,88,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,88,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,88,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,88,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,88,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,88,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,88,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,88,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,88,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,88,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,89,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,89,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,89,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,89,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,89,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,89,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,89,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,89,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,89,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,89,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,90,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,90,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,90,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,90,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,90,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,90,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,90,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,90,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,90,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,90,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,91,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,91,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,91,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,91,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,91,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,91,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,91,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,91,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,91,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,91,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,92,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,92,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,92,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,92,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,92,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,92,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,92,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,92,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,92,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,92,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,93,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,93,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,93,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,93,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,93,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,93,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,93,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,93,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,93,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,93,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,94,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,94,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,94,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,94,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,94,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,94,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,94,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,94,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,94,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,94,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,95,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,95,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,95,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,95,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,95,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,95,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,95,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,95,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,95,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,95,9,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,96,0,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,96,1,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,96,2,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,96,3,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,96,4,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,96,5,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,96,6,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,96,7,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,96,8,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,96,9,"Action: Answer(""A"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,97,0,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,97,1,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,97,2,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,97,3,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,97,4,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,97,5,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,97,6,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,97,7,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,97,8,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,97,9,"Action: Answer(""D"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,98,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,98,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,98,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,98,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,98,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,98,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,98,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,98,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,98,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,98,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,99,0,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,99,1,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,99,2,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,99,3,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,99,4,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,99,5,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,99,6,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,99,7,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,99,8,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,99,9,"Action: Answer(""C"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,100,0,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,100,1,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,100,2,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,100,3,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,100,4,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,100,5,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,100,6,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,100,7,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,100,8,"Action: Answer(""B"")
+"
+gpt-35-turbo,domain_expert,comprehensive-100,0.2,100,9,"Action: Answer(""B"")
+"

@@ -1,0 +1,204 @@
+### Model: gpt-35-turbo | Agent: domain_expert | Exam: aqua-rat-100 | Temperature: 0.0 | Problem 1 of 100 ###
+Topic: Math
+Question: A computer routine was developed to generate two numbers (x,y) the first being a random number between 0 and 100 inclusive, and the second being less than or equal to the square root of the first. Each of the following pair satisfies the routine except
+Choices:
+  A: (99,10)
+  B: (85,9)
+  C: (50,7)
+  D: (1,1)
+  E: (1,0)
+Response 0:
+Action: Answer("E")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("E")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("E")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("E")
+Response 9:
+Action: Answer("E")
+Votes: E, E, E, E, E, E, E, E, E, E
+Agent Answer: E
+Correct Answer: A
+Score: 0
+Tokens: 367
+
+### Model: gpt-35-turbo | Agent: domain_expert | Exam: aqua-rat-100 | Temperature: 0.0 | Problem 2 of 100 ###
+Topic: Math
+Question: If 75 percent of the employees of a certain company take a winter vacation, 40 percent take a winter and a summer vacation, and 20 percent take neither a winter nor a summer vacation, what Q percent of the employees take a summer vacation but not a winter vacation?
+Choices:
+  A: 5%
+  B: 15%
+  C: 25%
+  D: 35%
+  E: 45%
+Response 0:
+Let's assume that there are 100 employees in the company. Then, 75 employees take a winter vacation, 40 employees take both winter and summer vacations, and 20 employees take neither winter nor summer vacations. 
+
+Let's find out how many employees take at least one vacation: 
+75 (winter) + x (summer only) + 40 (both) = 100 - 20 (neither)
+Simplifying the equation, we get:
+x = 5
+
+So, 80 employees take at least one vacation (75 winter + 5 summer only). 
+
+Now, let's find out how many employees take a summer vacation but not a winter vacation:
+x (summer only) - 40 (both) = y (summer only, not winter)
+Simplifying the equation, we get:
+y = x - 40
+y = 5 - 40
+y = -35
+
+Since we can't have a negative number of employees, the answer must be 0. Therefore, 
+
+Action: Answer("A")
+Response 1:
+Let's assume that there are 100 employees in the company. Then, 75 employees take a winter vacation, 40 employees take both winter and summer vacations, and 20 employees take neither winter nor summer vacations. 
+
+Let's find out how many employees take at least one vacation: 
+75 (winter) + x (summer only) + 40 (both) = 100 - 20 (neither)
+Simplifying the equation, we get:
+x = 5
+
+So, 80 employees take at least one vacation (75 winter + 5 summer only). 
+
+Now, let's find out how many employees take a summer vacation but not a winter vacation:
+x (summer only) - 40 (both) = y (summer only, not winter)
+Simplifying the equation, we get:
+y = x - 40
+y = 5 - 40
+y = -35
+
+Since we can't have a negative number of employees, the answer must be 0. Therefore, 
+
+Action: Answer("A")
+Response 2:
+Let's assume that there are 100 employees in the company. Then, 75 employees take a winter vacation, 40 employees take both winter and summer vacations, and 20 employees take neither winter nor summer vacations. 
+
+Let's find out how many employees take at least one vacation: 
+75 (winter) + x (summer only) + 40 (both) = 100 - 20 (neither)
+Simplifying the equation, we get:
+x = 5
+
+So, 80 employees take at least one vacation (75 winter + 5 summer only). 
+
+Now, let's find out how many employees take a summer vacation but not a winter vacation:
+x (summer only) - 40 (both) = y (summer only, not winter)
+Simplifying the equation, we get:
+y = x - 40
+y = 5 - 40
+y = -35
+
+Since we can't have a negative number of employees, the answer must be 0. Therefore, 
+
+Action: Answer("A")
+Response 3:
+Let's assume that there are 100 employees in the company. Then, 75 employees take a winter vacation, 40 employees take both winter and summer vacations, and 20 employees take neither winter nor summer vacations. 
+
+Let's find out how many employees take at least one vacation: 
+75 (winter) + x (summer only) + 40 (both) = 100 - 20 (neither)
+Simplifying the equation, we get:
+x = 5
+
+So, 80 employees take at least one vacation (75 winter + 5 summer only). 
+
+Now, let's find out how many employees take a summer vacation but not a winter vacation:
+x (summer only) - 40 (both) = y (summer only, not winter)
+Simplifying the equation, we get:
+y = x - 40
+y = 5 - 40
+y = -35
+
+Since we can't have a negative number of employees, the answer must be 0. Therefore, 
+
+Action: Answer("A")
+Response 4:
+Let's assume that there are 100 employees in the company. Then, 75 employees take a winter vacation, 40 employees take both winter and summer vacations, and 20 employees take neither winter nor summer vacations. 
+
+Let's find out how many employees take at least one vacation: 
+75 (winter) + x (summer only) + 40 (both) = 100 - 20 (neither)
+Simplifying the equation, we get:
+x = 5
+
+So, 80 employees take at least one vacation (75 winter + 5 summer only). 
+
+Now, let's find out how many employees take a summer vacation but not a winter vacation:
+x (summer only) - 40 (both) = y (summer only, not winter)
+Simplifying the equation, we get:
+y = x - 40
+y = 5 - 40
+y = -35
+
+Since we can't have a negative number of employees, the answer must be 0. Therefore, 
+
+Action: Answer("A")
+Response 5:
+Let's assume that there are 100 employees in the company. Then, 75 employees take a winter vacation, 40 employees take both winter and summer vacations, and 20 employees take neither winter nor summer vacations. 
+
+Let's find out how many employees take at least one vacation: 
+75 (winter) + x (summer only) + 40 (both) = 100 - 20 (neither)
+Simplifying the equation, we get:
+x = 5
+
+So, 80 employees take at least one vacation (75 winter + 5 summer only). 
+
+Now, let's find out how many employees take a summer vacation but not a winter vacation:
+x (summer only) - 40 (both) = y (summer only, not winter)
+Simplifying the equation, we get:
+y = x - 40
+y = 5 - 40
+y = -35
+
+Since we can't have a negative number of employees, the answer must be 0. Therefore, 
+
+Action: Answer("A")
+Response 6:
+Let's assume that there are 100 employees in the company. Then, 75 employees take a winter vacation, 40 employees take both winter and summer vacations, and 20 employees take neither winter nor summer vacations. 
+
+Let's find out how many employees take at least one vacation: 
+75 (winter) + x (summer only) + 40 (both) = 100 - 20 (neither)
+Simplifying the equation, we get:
+x = 5
+
+So, 80 employees take at least one vacation (75 winter + 5 summer only). 
+
+Now, let's find out how many employees take a summer vacation but not a winter vacation:
+x (summer only) - 40 (both) = y (summer only, not winter)
+Simplifying the equation, we get:
+y = x - 40
+y = 5 - 40
+y = -35
+
+Since we can't have a negative number of employees, the answer must be 0. Therefore, 
+
+Action: Answer("A")
+Response 7:
+Let's assume that there are 100 employees in the company. Then, 75 employees take a winter vacation, 40 employees take both winter and summer vacations, and 20 employees take neither winter nor summer vacations. 
+
+Let's find out how many employees take at least one vacation: 
+75 (winter) + x (summer only) + 40 (both) = 100 - 20 (neither)
+Simplifying the equation, we get:
+x = 5
+
+So, 80 employees take at least one vacation (75 winter + 5 summer only). 
+
+Now, let's find out how many employees take a summer vacation but not a winter vacation:
+x (summer only) - 40 (both) = y (summer only, not winter)
+Simplifying the equation, we get:
+y = x - 40
+y = 5 - 40
+y = -35
+
+Since we can't have a negative number of employees, the answer must be 0. Therefore, 
+
+Action: Answer("A")

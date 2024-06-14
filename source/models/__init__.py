@@ -1,3 +1,3 @@
-from . import gpt
-from . import llama
+from . import openai_model
+from . import azure_model
 from . import response

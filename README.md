@@ -18,12 +18,16 @@ Despite anecdotal reports to the contrary, our empirical results indicate that c
 - [Analyze](source/analyze/) - contains the data analysis scripts
 
 ## Data
-- [Exams](exams/) - contains the test dataset
-- [Results](results/) - contains the high-level test results
-- [Details](details/) - contains the low-level test results
-- [Logs](logs/) - contains the experiment event logs
-
+- [Exams](data/exams/) - contains the test dataset
+- [Results](data/results/) - contains the high-level test results
+- [Details](data/details/) - contains the low-level test results
+- [Responses](data/responses/) - contains the LLM response text
+- [Logs](data/logs/) - contains the experiment event logs
 
 ## Analysis
 - [Plots](plots/) - contains all data visualizations
+
+## Notes
+- See [Requirements.txt](source/requirements.txt) for a list of packages used in this experiment.
+- [GitHub Copilot](https://github.com/features/copilot) was used in the creation of source code for this experiment.
 

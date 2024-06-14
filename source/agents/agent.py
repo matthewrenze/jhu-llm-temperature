@@ -34,7 +34,7 @@ class Agent:
         if response.has_error:
             return response
 
-        # TESTING: Log the messages
+        # Log the messages
         self.log.debug(f"Debug: Agent system prompt:\n{system_prompt}")
         self.log.debug(f"Debug: Agent user prompt:\n{user_prompt}")
         for i, choice in enumerate(response.choices):

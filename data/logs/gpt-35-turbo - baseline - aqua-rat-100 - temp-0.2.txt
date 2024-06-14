@@ -1,0 +1,341 @@
+### Model: gpt-35-turbo | Agent: baseline | Exam: aqua-rat-100 | Temperature: 0.2 | Problem 1 of 100 ###
+Topic: Math
+Question: A computer routine was developed to generate two numbers (x,y) the first being a random number between 0 and 100 inclusive, and the second being less than or equal to the square root of the first. Each of the following pair satisfies the routine except
+Choices:
+  A: (99,10)
+  B: (85,9)
+  C: (50,7)
+  D: (1,1)
+  E: (1,0)
+Response 0:
+Action: Answer("E")
+Response 1:
+Action: Answer("E")
+Response 2:
+Action: Answer("E")
+Response 3:
+Action: Answer("E")
+Response 4:
+Action: Answer("E")
+Response 5:
+Action: Answer("E")
+Response 6:
+Action: Answer("E")
+Response 7:
+Action: Answer("E")
+Response 8:
+Action: Answer("E")
+Response 9:
+Action: Answer("E")
+Votes: E, E, E, E, E, E, E, E, E, E
+Agent Answer: E
+Correct Answer: A
+Score: 0
+Tokens: 366
+
+### Model: gpt-35-turbo | Agent: baseline | Exam: aqua-rat-100 | Temperature: 0.2 | Problem 2 of 100 ###
+Topic: Math
+Question: If 75 percent of the employees of a certain company take a winter vacation, 40 percent take a winter and a summer vacation, and 20 percent take neither a winter nor a summer vacation, what Q percent of the employees take a summer vacation but not a winter vacation?
+Choices:
+  A: 5%
+  B: 15%
+  C: 25%
+  D: 35%
+  E: 45%
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("B")
+Response 4:
+Action: Answer("B")
+Response 5:
+Action: Answer("B")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, C, C, B, B, B, C, C, C, C
+Agent Answer: C
+Correct Answer: A
+Score: 0
+Tokens: 359
+
+### Model: gpt-35-turbo | Agent: baseline | Exam: aqua-rat-100 | Temperature: 0.2 | Problem 3 of 100 ###
+Topic: Math
+Question: A rectangular solid, 3 x 4 x 15, is inscribed in a sphere, so that all eight of its vertices are on the sphere. What is the diameter of the sphere?
+Choices:
+  A:  13.3542
+  B:  15.8113
+  C:  18.3451
+  D:  19.5667
+  E:  20.8888
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, C, C, C, C, C, C, C, C, C
+Agent Answer: C
+Correct Answer: B
+Score: 0
+Tokens: 362
+
+### Model: gpt-35-turbo | Agent: baseline | Exam: aqua-rat-100 | Temperature: 0.2 | Problem 4 of 100 ###
+Topic: Math
+Question: Peter wants to find 10 additional people to form a scavenger hunt team with him. If he has 10 friends who would like to participate, how many choices does he have for forming his team?
+Choices:
+  A: 0
+  B: 1
+  C: 2
+  D: 3
+  E: 4
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, C, C, C, C, C, C, C, C, C
+Agent Answer: C
+Correct Answer: B
+Score: 0
+Tokens: 343
+
+### Model: gpt-35-turbo | Agent: baseline | Exam: aqua-rat-100 | Temperature: 0.2 | Problem 5 of 100 ###
+Topic: Math
+Question: Assistants are needed to prepare for preparation. Each helper can make either 2 large cakes or 35 small cakes/hr. The kitchen is available for 3 hours and 20 large cakes & 700 small cakes are needed. How many helpers are required?
+Choices:
+  A: 8
+  B: 10
+  C: 12
+  D: 15
+  E: 19
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, C, C, C, C, C, C, C, C, C
+Agent Answer: C
+Correct Answer: B
+Score: 0
+Tokens: 354
+
+### Model: gpt-35-turbo | Agent: baseline | Exam: aqua-rat-100 | Temperature: 0.2 | Problem 6 of 100 ###
+Topic: Math
+Question: An express electric train takes exact three seconds to enter tunnel which is 1 mile long.
+If train is traveling at 120 mile an hour, how long will it take to pass completely through the tunnel ?
+Choices:
+  A: 43 seconds
+  B: 39 seconds
+  C: 20 seconds
+  D: 33 seconds
+  E: 55 seconds
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, C, C, C, C, C, C, C, C, C
+Agent Answer: C
+Correct Answer: D
+Score: 0
+Tokens: 348
+
+### Model: gpt-35-turbo | Agent: baseline | Exam: aqua-rat-100 | Temperature: 0.2 | Problem 7 of 100 ###
+Topic: Math
+Question: A bookshelf contains 45 books, 30 of which are hardcover and 20 of which are fiction. What is the maximum number of books that are both hardcover and fiction?
+Choices:
+  A: 10
+  B: 15
+  C: 18
+  D: 20
+  E: 30
+Response 0:
+Action: Answer("A")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("A")
+Response 3:
+Action: Answer("A")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("A")
+Response 6:
+Action: Answer("A")
+Response 7:
+Action: Answer("A")
+Response 8:
+Action: Answer("A")
+Response 9:
+Action: Answer("A")
+Votes: A, A, A, A, A, A, A, A, A, A
+Agent Answer: A
+Correct Answer: D
+Score: 0
+Tokens: 340
+
+### Model: gpt-35-turbo | Agent: baseline | Exam: aqua-rat-100 | Temperature: 0.2 | Problem 8 of 100 ###
+Topic: Math
+Question: An electric pole, 14 metres high, casts a shadow of 10 metres. Find the height of a tree that casts a shadow of 15 metres under similar conditions.
+Choices:
+  A: 21
+  B: 22
+  C: 20
+  D: 23
+  E: 24
+Response 0:
+Action: Answer("D")
+Response 1:
+Action: Answer("D")
+Response 2:
+Action: Answer("D")
+Response 3:
+Action: Answer("D")
+Response 4:
+Action: Answer("D")
+Response 5:
+Action: Answer("D")
+Response 6:
+Action: Answer("D")
+Response 7:
+Action: Answer("D")
+Response 8:
+Action: Answer("D")
+Response 9:
+Action: Answer("D")
+Votes: D, D, D, D, D, D, D, D, D, D
+Agent Answer: D
+Correct Answer: A
+Score: 0
+Tokens: 337
+
+### Model: gpt-35-turbo | Agent: baseline | Exam: aqua-rat-100 | Temperature: 0.2 | Problem 9 of 100 ###
+Topic: Math
+Question: At what price should the Karan mark a sewing machine that costs him Rs. 1200/- so that even after offering a 20% discount, he makes 20% profit?
+Choices:
+  A: 1,879
+  B: 1,875
+  C: 1,876
+  D: 1,872
+  E: 1,800
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("C")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("C")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")
+Response 8:
+Action: Answer("C")
+Response 9:
+Action: Answer("C")
+Votes: C, C, C, C, C, C, C, C, C, C
+Agent Answer: C
+Correct Answer: E
+Score: 0
+Tokens: 350
+
+### Model: gpt-35-turbo | Agent: baseline | Exam: aqua-rat-100 | Temperature: 0.2 | Problem 10 of 100 ###
+Topic: Math
+Question: John would make the 3-letter codes with diffenrent 5 vowels and 20 consonants with the condition that the middle letter must be vowel and the first letter and the third letter must be different from each other and are both consonant. How many different codes can be made?
+Choices:
+  A: 1,980
+  B: 2,020
+  C: 2,100
+  D: 2,200
+  E: 1,900
+Response 0:
+Action: Answer("C")
+Response 1:
+Action: Answer("A")
+Response 2:
+Action: Answer("C")
+Response 3:
+Action: Answer("C")
+Response 4:
+Action: Answer("A")
+Response 5:
+Action: Answer("C")
+Response 6:
+Action: Answer("C")
+Response 7:
+Action: Answer("C")

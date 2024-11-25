@@ -8,7 +8,11 @@ We created a multiple-choice question-and-answer (MCQA) exam by randomly samplin
 Despite anecdotal reports to the contrary, our empirical results indicate that changes in temperature from 0.0 to 1.0 do not have a statistically significant impact on LLM performance for problem-solving tasks. In addition, these results appear to generalize across LLMs, prompt-engineering techniques, and problem domains. 
 
 ## Documents
-- [Paper](http://arxiv.org/abs/2402.05201)
+- [Research paper](https://aclanthology.org/2024.findings-emnlp.432)
+- [Research poster](https://matthewrenze.com/wp-content/uploads/posters/llm-temperature.pdf)
+- [Presentation video](https://youtu.be/VvhpKAXe_Mc)
+- [Presentation slides](https://matthewrenze.com/wp-content/uploads/presentations/llm-temperature.pdf)
+- [Pre-print paper](https://arxiv.org/abs/2402.05201)
 
 ## Code
 - [Source](source/) - contains all source code

@@ -9,10 +9,11 @@ Despite anecdotal reports to the contrary, our empirical results indicate that c
 
 ## Documents
 - [Research paper](https://aclanthology.org/2024.findings-emnlp.432)
+- [Pre-print paper](https://arxiv.org/abs/2402.05201)
 - [Research poster](https://matthewrenze.com/wp-content/uploads/posters/llm-temperature.pdf)
 - [Presentation video](https://youtu.be/VvhpKAXe_Mc)
 - [Presentation slides](https://matthewrenze.com/wp-content/uploads/presentations/llm-temperature.pdf)
-- [Pre-print paper](https://arxiv.org/abs/2402.05201)
+- [Research homepage] (https://matthewrenze.com/research/the-effect-of-sampling-temperature-on-llms/)
 
 ## Code
 - [Source](source/) - contains all source code
